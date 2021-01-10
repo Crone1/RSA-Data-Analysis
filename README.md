@@ -10,17 +10,9 @@ The goal of this project was to clean the road safety data, get it into a nice f
 List of tools used:
 
     Jupyter Notebook
-    Excel
     OpenRefine
-    Google    
     
-Link to the notebooks used to Process the datasets:
 
-    http://localhost:8888/notebooks/2019-ca273-cronen2-a1/notebooks/Processing%20Data%20(with%20heads%20and%20tails%20left%20in).ipynb
-    http://localhost:8888/notebooks/2019-ca273-cronen2-a1/notebooks/Processing%20Data%20(without%20heads%20and%20tails).ipynb
-    http://localhost:8888/notebooks/2019-ca273-cronen2-a1/notebooks/Summary%20of%20Data%20Processing%20(with%20heads%20and%20tails%20left%20in).ipynb
-    http://localhost:8888/notebooks/2019-ca273-cronen2-a1/notebooks/Summary%20of%20Data%20Processing%20(without%20heads%20and%20tails).ipynb
-    
 Review of processing stage:
 
     I started this project with the idea that I would go through and process each of the 5 different datasets one at a time seperatly.
@@ -58,25 +50,11 @@ Review of the cleaning stage:
     After doing this, I decided to change this value.
     After this cleaning, I just had to export this cleaned table and then that was the practical side of the project done.
 
-Link to the dataframe after cleaning in OpenRefine:
-
-    http://localhost:8888/edit/2019-ca273-cronen2-a1/data/processed/Cleaned_dataframe-csv.csv
+A CSV of the data after it had been cleaned in OpenRefine can be found at 'data/processed/Cleaned_dataframe-csv.csv'.
 
 A bit of extra work I did on notebooks:
 
     Near the end of the processing stage and of writing the notbook, I decided that my current notebook of my processing stage was quite long and a bit messy so I decided to write a Summary notebook of this stage.
-    I included the "df.head()"'s and "df.tail()"'s in this new summary notebook as I wasn't confident whether Suzanne wanted them in the notebook or not.
-    This proved to be a bit time consuming as any change I made in one notebook had to be changed in the others; however, I wanted to have a notebook that was more compact and to the point for Suzanne so that it was easier for her to look through.
-    This same reason also moved me to create a version of the new summary notebook and of the original notebook without any "df.head()"'s or "df.tail()"'s in them.
+    I wanted to have a notebook that was more compact and to the point for Suzanne so that it was easier for her to look through.
 
-Link to the final dataframe as a CSV:
-
-    http://localhost:8888/edit/2019-ca273-cronen2-a1/data/processed/Final_dataframe-csv.csv
-
-Review of the whole project:
-
-    Overall I enjoyed the project.
-    Most of the work was in the processing and writing of the notebook (or notebooks in my case).
-    As the cleaning was slightly encorporated in the processing, this stage didnt take much time at all except for that one error where I wasn't sure whether it was a real value or a mistake.
-    Suzanne had mentioned that Data Scientists spend most of their time processing, cleaning and organising data than anything else when completing a project which was proved in this project.
-    I did have numerous problems along the way; however, sites on Google tended to be good at pointing out different functions that could be used for different things and explaining the arguments within these functions.
+The final CSV of the cleaned and processed data can be found at 'data/processed/Final_dataframe-csv.csv'.
