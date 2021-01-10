@@ -1,0 +1,2305 @@
+Column,Year,Age,Sex,Participant,Casualty,Total
+0,2005,00 - 05 years,Male,Pedestrians,Injured,36
+1,2005,00 - 05 years,Male,Pedestrians,Killed,3
+2,2005,00 - 05 years,Male,Pedal cyclists,Injured,0
+3,2005,00 - 05 years,Male,Pedal cyclists,Killed,0
+4,2005,00 - 05 years,Male,Other road users,Injured,4
+5,2005,00 - 05 years,Male,Other road users,Killed,0
+6,2005,00 - 05 years,Male,Motor cyclists,Injured,0
+7,2005,00 - 05 years,Male,Motor cyclists,Killed,0
+8,2005,00 - 05 years,Male,Car passengers,Injured,52
+9,2005,00 - 05 years,Male,Car passengers,Killed,0
+10,2005,00 - 05 years,Male,Car drivers,Injured,1
+11,2005,00 - 05 years,Male,Car drivers,Killed,0
+12,2005,00 - 05 years,Female,Pedestrians,Injured,17
+13,2005,00 - 05 years,Female,Pedestrians,Killed,0
+14,2005,00 - 05 years,Female,Pedal cyclists,Injured,1
+15,2005,00 - 05 years,Female,Pedal cyclists,Killed,0
+16,2005,00 - 05 years,Female,Other road users,Injured,1
+17,2005,00 - 05 years,Female,Other road users,Killed,0
+18,2005,00 - 05 years,Female,Motor cyclists,Injured,0
+19,2005,00 - 05 years,Female,Motor cyclists,Killed,0
+20,2005,00 - 05 years,Female,Car passengers,Injured,53
+21,2005,00 - 05 years,Female,Car passengers,Killed,0
+22,2005,00 - 05 years,Female,Car drivers,Injured,0
+23,2005,00 - 05 years,Female,Car drivers,Killed,0
+24,2005,06 - 09 years,Male,Pedestrians,Injured,41
+25,2005,06 - 09 years,Male,Pedestrians,Killed,1
+26,2005,06 - 09 years,Male,Pedal cyclists,Injured,8
+27,2005,06 - 09 years,Male,Pedal cyclists,Killed,0
+28,2005,06 - 09 years,Male,Other road users,Injured,9
+29,2005,06 - 09 years,Male,Other road users,Killed,0
+30,2005,06 - 09 years,Male,Motor cyclists,Injured,1
+31,2005,06 - 09 years,Male,Motor cyclists,Killed,0
+32,2005,06 - 09 years,Male,Car passengers,Injured,37
+33,2005,06 - 09 years,Male,Car passengers,Killed,0
+34,2005,06 - 09 years,Male,Car drivers,Injured,0
+35,2005,06 - 09 years,Male,Car drivers,Killed,0
+36,2005,06 - 09 years,Female,Pedestrians,Injured,19
+37,2005,06 - 09 years,Female,Pedestrians,Killed,0
+38,2005,06 - 09 years,Female,Pedal cyclists,Injured,3
+39,2005,06 - 09 years,Female,Pedal cyclists,Killed,0
+40,2005,06 - 09 years,Female,Other road users,Injured,3
+41,2005,06 - 09 years,Female,Other road users,Killed,0
+42,2005,06 - 09 years,Female,Motor cyclists,Injured,0
+43,2005,06 - 09 years,Female,Motor cyclists,Killed,0
+44,2005,06 - 09 years,Female,Car passengers,Injured,37
+45,2005,06 - 09 years,Female,Car passengers,Killed,0
+46,2005,06 - 09 years,Female,Car drivers,Injured,0
+47,2005,06 - 09 years,Female,Car drivers,Killed,0
+48,2005,10 - 14 years,Male,Pedestrians,Injured,49
+49,2005,10 - 14 years,Male,Pedestrians,Killed,3
+50,2005,10 - 14 years,Male,Pedal cyclists,Injured,12
+51,2005,10 - 14 years,Male,Pedal cyclists,Killed,0
+52,2005,10 - 14 years,Male,Other road users,Injured,20
+53,2005,10 - 14 years,Male,Other road users,Killed,0
+54,2005,10 - 14 years,Male,Motor cyclists,Injured,1
+55,2005,10 - 14 years,Male,Motor cyclists,Killed,0
+56,2005,10 - 14 years,Male,Car passengers,Injured,52
+57,2005,10 - 14 years,Male,Car passengers,Killed,1
+58,2005,10 - 14 years,Male,Car drivers,Injured,1
+59,2005,10 - 14 years,Male,Car drivers,Killed,0
+60,2005,10 - 14 years,Female,Pedestrians,Injured,47
+61,2005,10 - 14 years,Female,Pedestrians,Killed,1
+62,2005,10 - 14 years,Female,Pedal cyclists,Injured,3
+63,2005,10 - 14 years,Female,Pedal cyclists,Killed,0
+64,2005,10 - 14 years,Female,Other road users,Injured,6
+65,2005,10 - 14 years,Female,Other road users,Killed,0
+66,2005,10 - 14 years,Female,Motor cyclists,Injured,0
+67,2005,10 - 14 years,Female,Motor cyclists,Killed,0
+68,2005,10 - 14 years,Female,Car passengers,Injured,46
+69,2005,10 - 14 years,Female,Car passengers,Killed,0
+70,2005,10 - 14 years,Female,Car drivers,Injured,0
+71,2005,10 - 14 years,Female,Car drivers,Killed,0
+72,2005,15 - 17 years,Male,Pedestrians,Injured,33
+73,2005,15 - 17 years,Male,Pedestrians,Killed,4
+74,2005,15 - 17 years,Male,Pedal cyclists,Injured,13
+75,2005,15 - 17 years,Male,Pedal cyclists,Killed,0
+76,2005,15 - 17 years,Male,Other road users,Injured,24
+77,2005,15 - 17 years,Male,Other road users,Killed,3
+78,2005,15 - 17 years,Male,Motor cyclists,Injured,37
+79,2005,15 - 17 years,Male,Motor cyclists,Killed,1
+80,2005,15 - 17 years,Male,Car passengers,Injured,86
+81,2005,15 - 17 years,Male,Car passengers,Killed,3
+82,2005,15 - 17 years,Male,Car drivers,Injured,50
+83,2005,15 - 17 years,Male,Car drivers,Killed,4
+84,2005,15 - 17 years,Female,Pedestrians,Injured,35
+85,2005,15 - 17 years,Female,Pedestrians,Killed,5
+86,2005,15 - 17 years,Female,Pedal cyclists,Injured,2
+87,2005,15 - 17 years,Female,Pedal cyclists,Killed,0
+88,2005,15 - 17 years,Female,Other road users,Injured,11
+89,2005,15 - 17 years,Female,Other road users,Killed,2
+90,2005,15 - 17 years,Female,Motor cyclists,Injured,6
+91,2005,15 - 17 years,Female,Motor cyclists,Killed,0
+92,2005,15 - 17 years,Female,Car passengers,Injured,87
+93,2005,15 - 17 years,Female,Car passengers,Killed,4
+94,2005,15 - 17 years,Female,Car drivers,Injured,13
+95,2005,15 - 17 years,Female,Car drivers,Killed,0
+96,2005,18 - 20 years,Male,Pedestrians,Injured,24
+97,2005,18 - 20 years,Male,Pedestrians,Killed,5
+98,2005,18 - 20 years,Male,Pedal cyclists,Injured,9
+99,2005,18 - 20 years,Male,Pedal cyclists,Killed,0
+100,2005,18 - 20 years,Male,Other road users,Injured,45
+101,2005,18 - 20 years,Male,Other road users,Killed,5
+102,2005,18 - 20 years,Male,Motor cyclists,Injured,39
+103,2005,18 - 20 years,Male,Motor cyclists,Killed,4
+104,2005,18 - 20 years,Male,Car passengers,Injured,203
+105,2005,18 - 20 years,Male,Car passengers,Killed,12
+106,2005,18 - 20 years,Male,Car drivers,Injured,274
+107,2005,18 - 20 years,Male,Car drivers,Killed,20
+108,2005,18 - 20 years,Female,Pedestrians,Injured,24
+109,2005,18 - 20 years,Female,Pedestrians,Killed,0
+110,2005,18 - 20 years,Female,Pedal cyclists,Injured,0
+111,2005,18 - 20 years,Female,Pedal cyclists,Killed,0
+112,2005,18 - 20 years,Female,Other road users,Injured,10
+113,2005,18 - 20 years,Female,Other road users,Killed,2
+114,2005,18 - 20 years,Female,Motor cyclists,Injured,1
+115,2005,18 - 20 years,Female,Motor cyclists,Killed,0
+116,2005,18 - 20 years,Female,Car passengers,Injured,164
+117,2005,18 - 20 years,Female,Car passengers,Killed,3
+118,2005,18 - 20 years,Female,Car drivers,Injured,120
+119,2005,18 - 20 years,Female,Car drivers,Killed,4
+120,2005,21 - 24 years,Male,Pedestrians,Injured,37
+121,2005,21 - 24 years,Male,Pedestrians,Killed,5
+122,2005,21 - 24 years,Male,Pedal cyclists,Injured,11
+123,2005,21 - 24 years,Male,Pedal cyclists,Killed,0
+124,2005,21 - 24 years,Male,Other road users,Injured,95
+125,2005,21 - 24 years,Male,Other road users,Killed,3
+126,2005,21 - 24 years,Male,Motor cyclists,Injured,61
+127,2005,21 - 24 years,Male,Motor cyclists,Killed,10
+128,2005,21 - 24 years,Male,Car passengers,Injured,152
+129,2005,21 - 24 years,Male,Car passengers,Killed,12
+130,2005,21 - 24 years,Male,Car drivers,Injured,285
+131,2005,21 - 24 years,Male,Car drivers,Killed,13
+132,2005,21 - 24 years,Female,Pedestrians,Injured,30
+133,2005,21 - 24 years,Female,Pedestrians,Killed,0
+134,2005,21 - 24 years,Female,Pedal cyclists,Injured,5
+135,2005,21 - 24 years,Female,Pedal cyclists,Killed,0
+136,2005,21 - 24 years,Female,Other road users,Injured,14
+137,2005,21 - 24 years,Female,Other road users,Killed,0
+138,2005,21 - 24 years,Female,Motor cyclists,Injured,5
+139,2005,21 - 24 years,Female,Motor cyclists,Killed,0
+140,2005,21 - 24 years,Female,Car passengers,Injured,106
+141,2005,21 - 24 years,Female,Car passengers,Killed,5
+142,2005,21 - 24 years,Female,Car drivers,Injured,213
+143,2005,21 - 24 years,Female,Car drivers,Killed,6
+144,2005,25 - 34 years,Male,Pedestrians,Injured,76
+145,2005,25 - 34 years,Male,Pedestrians,Killed,4
+146,2005,25 - 34 years,Male,Pedal cyclists,Injured,35
+147,2005,25 - 34 years,Male,Pedal cyclists,Killed,3
+148,2005,25 - 34 years,Male,Other road users,Injured,216
+149,2005,25 - 34 years,Male,Other road users,Killed,6
+150,2005,25 - 34 years,Male,Motor cyclists,Injured,147
+151,2005,25 - 34 years,Male,Motor cyclists,Killed,18
+152,2005,25 - 34 years,Male,Car passengers,Injured,113
+153,2005,25 - 34 years,Male,Car passengers,Killed,8
+154,2005,25 - 34 years,Male,Car drivers,Injured,518
+155,2005,25 - 34 years,Male,Car drivers,Killed,19
+156,2005,25 - 34 years,Female,Pedestrians,Injured,58
+157,2005,25 - 34 years,Female,Pedestrians,Killed,2
+158,2005,25 - 34 years,Female,Pedal cyclists,Injured,8
+159,2005,25 - 34 years,Female,Pedal cyclists,Killed,0
+160,2005,25 - 34 years,Female,Other road users,Injured,36
+161,2005,25 - 34 years,Female,Other road users,Killed,2
+162,2005,25 - 34 years,Female,Motor cyclists,Injured,13
+163,2005,25 - 34 years,Female,Motor cyclists,Killed,1
+164,2005,25 - 34 years,Female,Car passengers,Injured,149
+165,2005,25 - 34 years,Female,Car passengers,Killed,4
+166,2005,25 - 34 years,Female,Car drivers,Injured,448
+167,2005,25 - 34 years,Female,Car drivers,Killed,10
+168,2005,35 - 44 years,Male,Pedestrians,Injured,62
+169,2005,35 - 44 years,Male,Pedestrians,Killed,2
+170,2005,35 - 44 years,Male,Pedal cyclists,Injured,20
+171,2005,35 - 44 years,Male,Pedal cyclists,Killed,1
+172,2005,35 - 44 years,Male,Other road users,Injured,130
+173,2005,35 - 44 years,Male,Other road users,Killed,4
+174,2005,35 - 44 years,Male,Motor cyclists,Injured,92
+175,2005,35 - 44 years,Male,Motor cyclists,Killed,12
+176,2005,35 - 44 years,Male,Car passengers,Injured,59
+177,2005,35 - 44 years,Male,Car passengers,Killed,3
+178,2005,35 - 44 years,Male,Car drivers,Injured,304
+179,2005,35 - 44 years,Male,Car drivers,Killed,16
+180,2005,35 - 44 years,Female,Pedestrians,Injured,34
+181,2005,35 - 44 years,Female,Pedestrians,Killed,1
+182,2005,35 - 44 years,Female,Pedal cyclists,Injured,9
+183,2005,35 - 44 years,Female,Pedal cyclists,Killed,0
+184,2005,35 - 44 years,Female,Other road users,Injured,20
+185,2005,35 - 44 years,Female,Other road users,Killed,0
+186,2005,35 - 44 years,Female,Motor cyclists,Injured,8
+187,2005,35 - 44 years,Female,Motor cyclists,Killed,0
+188,2005,35 - 44 years,Female,Car passengers,Injured,84
+189,2005,35 - 44 years,Female,Car passengers,Killed,4
+190,2005,35 - 44 years,Female,Car drivers,Injured,277
+191,2005,35 - 44 years,Female,Car drivers,Killed,2
+192,2005,45 - 54 years,Male,Pedestrians,Injured,33
+193,2005,45 - 54 years,Male,Pedestrians,Killed,4
+194,2005,45 - 54 years,Male,Pedal cyclists,Injured,10
+195,2005,45 - 54 years,Male,Pedal cyclists,Killed,0
+196,2005,45 - 54 years,Male,Other road users,Injured,103
+197,2005,45 - 54 years,Male,Other road users,Killed,2
+198,2005,45 - 54 years,Male,Motor cyclists,Injured,41
+199,2005,45 - 54 years,Male,Motor cyclists,Killed,6
+200,2005,45 - 54 years,Male,Car passengers,Injured,37
+201,2005,45 - 54 years,Male,Car passengers,Killed,1
+202,2005,45 - 54 years,Male,Car drivers,Injured,205
+203,2005,45 - 54 years,Male,Car drivers,Killed,8
+204,2005,45 - 54 years,Female,Pedestrians,Injured,30
+205,2005,45 - 54 years,Female,Pedestrians,Killed,0
+206,2005,45 - 54 years,Female,Pedal cyclists,Injured,6
+207,2005,45 - 54 years,Female,Pedal cyclists,Killed,0
+208,2005,45 - 54 years,Female,Other road users,Injured,14
+209,2005,45 - 54 years,Female,Other road users,Killed,1
+210,2005,45 - 54 years,Female,Motor cyclists,Injured,4
+211,2005,45 - 54 years,Female,Motor cyclists,Killed,1
+212,2005,45 - 54 years,Female,Car passengers,Injured,65
+213,2005,45 - 54 years,Female,Car passengers,Killed,3
+214,2005,45 - 54 years,Female,Car drivers,Injured,219
+215,2005,45 - 54 years,Female,Car drivers,Killed,5
+216,2005,55 - 64 years,Male,Pedestrians,Injured,42
+217,2005,55 - 64 years,Male,Pedestrians,Killed,7
+218,2005,55 - 64 years,Male,Pedal cyclists,Injured,11
+219,2005,55 - 64 years,Male,Pedal cyclists,Killed,1
+220,2005,55 - 64 years,Male,Other road users,Injured,52
+221,2005,55 - 64 years,Male,Other road users,Killed,3
+222,2005,55 - 64 years,Male,Motor cyclists,Injured,6
+223,2005,55 - 64 years,Male,Motor cyclists,Killed,2
+224,2005,55 - 64 years,Male,Car passengers,Injured,25
+225,2005,55 - 64 years,Male,Car passengers,Killed,0
+226,2005,55 - 64 years,Male,Car drivers,Injured,149
+227,2005,55 - 64 years,Male,Car drivers,Killed,9
+228,2005,55 - 64 years,Female,Pedestrians,Injured,23
+229,2005,55 - 64 years,Female,Pedestrians,Killed,4
+230,2005,55 - 64 years,Female,Pedal cyclists,Injured,2
+231,2005,55 - 64 years,Female,Pedal cyclists,Killed,1
+232,2005,55 - 64 years,Female,Other road users,Injured,8
+233,2005,55 - 64 years,Female,Other road users,Killed,0
+234,2005,55 - 64 years,Female,Motor cyclists,Injured,2
+235,2005,55 - 64 years,Female,Motor cyclists,Killed,0
+236,2005,55 - 64 years,Female,Car passengers,Injured,57
+237,2005,55 - 64 years,Female,Car passengers,Killed,0
+238,2005,55 - 64 years,Female,Car drivers,Injured,127
+239,2005,55 - 64 years,Female,Car drivers,Killed,6
+240,2005,65 years and over,Male,Pedestrians,Injured,53
+241,2005,65 years and over,Male,Pedestrians,Killed,12
+242,2005,65 years and over,Male,Pedal cyclists,Injured,7
+243,2005,65 years and over,Male,Pedal cyclists,Killed,2
+244,2005,65 years and over,Male,Other road users,Injured,22
+245,2005,65 years and over,Male,Other road users,Killed,1
+246,2005,65 years and over,Male,Motor cyclists,Injured,6
+247,2005,65 years and over,Male,Motor cyclists,Killed,0
+248,2005,65 years and over,Male,Car passengers,Injured,28
+249,2005,65 years and over,Male,Car passengers,Killed,4
+250,2005,65 years and over,Male,Car drivers,Injured,155
+251,2005,65 years and over,Male,Car drivers,Killed,15
+252,2005,65 years and over,Female,Pedestrians,Injured,60
+253,2005,65 years and over,Female,Pedestrians,Killed,8
+254,2005,65 years and over,Female,Pedal cyclists,Injured,1
+255,2005,65 years and over,Female,Pedal cyclists,Killed,1
+256,2005,65 years and over,Female,Other road users,Injured,10
+257,2005,65 years and over,Female,Other road users,Killed,0
+258,2005,65 years and over,Female,Motor cyclists,Injured,3
+259,2005,65 years and over,Female,Motor cyclists,Killed,0
+260,2005,65 years and over,Female,Car passengers,Injured,73
+261,2005,65 years and over,Female,Car passengers,Killed,8
+262,2005,65 years and over,Female,Car drivers,Injured,101
+263,2005,65 years and over,Female,Car drivers,Killed,5
+264,2005,Age unknown,Male,Pedestrians,Injured,26
+265,2005,Age unknown,Male,Pedestrians,Killed,1
+266,2005,Age unknown,Male,Pedal cyclists,Injured,9
+267,2005,Age unknown,Male,Pedal cyclists,Killed,0
+268,2005,Age unknown,Male,Other road users,Injured,25
+269,2005,Age unknown,Male,Other road users,Killed,0
+270,2005,Age unknown,Male,Motor cyclists,Injured,12
+271,2005,Age unknown,Male,Motor cyclists,Killed,0
+272,2005,Age unknown,Male,Car passengers,Injured,22
+273,2005,Age unknown,Male,Car passengers,Killed,0
+274,2005,Age unknown,Male,Car drivers,Injured,35
+275,2005,Age unknown,Male,Car drivers,Killed,0
+276,2005,Age unknown,Female,Pedestrians,Injured,21
+277,2005,Age unknown,Female,Pedestrians,Killed,0
+278,2005,Age unknown,Female,Pedal cyclists,Injured,3
+279,2005,Age unknown,Female,Pedal cyclists,Killed,0
+280,2005,Age unknown,Female,Other road users,Injured,12
+281,2005,Age unknown,Female,Other road users,Killed,0
+282,2005,Age unknown,Female,Motor cyclists,Injured,1
+283,2005,Age unknown,Female,Motor cyclists,Killed,0
+284,2005,Age unknown,Female,Car passengers,Injured,32
+285,2005,Age unknown,Female,Car passengers,Killed,1
+286,2005,Age unknown,Female,Car drivers,Injured,31
+287,2005,Age unknown,Female,Car drivers,Killed,0
+288,2006,00 - 05 years,Male,Pedestrians,Injured,32
+289,2006,00 - 05 years,Male,Pedestrians,Killed,1
+290,2006,00 - 05 years,Male,Pedal cyclists,Injured,0
+291,2006,00 - 05 years,Male,Pedal cyclists,Killed,0
+292,2006,00 - 05 years,Male,Other road users,Injured,6
+293,2006,00 - 05 years,Male,Other road users,Killed,0
+294,2006,00 - 05 years,Male,Motor cyclists,Injured,0
+295,2006,00 - 05 years,Male,Motor cyclists,Killed,0
+296,2006,00 - 05 years,Male,Car passengers,Injured,51
+297,2006,00 - 05 years,Male,Car passengers,Killed,4
+298,2006,00 - 05 years,Male,Car drivers,Injured,0
+299,2006,00 - 05 years,Male,Car drivers,Killed,0
+300,2006,00 - 05 years,Female,Pedestrians,Injured,16
+301,2006,00 - 05 years,Female,Pedestrians,Killed,2
+302,2006,00 - 05 years,Female,Pedal cyclists,Injured,0
+303,2006,00 - 05 years,Female,Pedal cyclists,Killed,0
+304,2006,00 - 05 years,Female,Other road users,Injured,2
+305,2006,00 - 05 years,Female,Other road users,Killed,0
+306,2006,00 - 05 years,Female,Motor cyclists,Injured,1
+307,2006,00 - 05 years,Female,Motor cyclists,Killed,0
+308,2006,00 - 05 years,Female,Car passengers,Injured,54
+309,2006,00 - 05 years,Female,Car passengers,Killed,2
+310,2006,00 - 05 years,Female,Car drivers,Injured,0
+311,2006,00 - 05 years,Female,Car drivers,Killed,0
+312,2006,06 - 09 years,Male,Pedestrians,Injured,44
+313,2006,06 - 09 years,Male,Pedestrians,Killed,2
+314,2006,06 - 09 years,Male,Pedal cyclists,Injured,2
+315,2006,06 - 09 years,Male,Pedal cyclists,Killed,0
+316,2006,06 - 09 years,Male,Other road users,Injured,1
+317,2006,06 - 09 years,Male,Other road users,Killed,0
+318,2006,06 - 09 years,Male,Motor cyclists,Injured,0
+319,2006,06 - 09 years,Male,Motor cyclists,Killed,0
+320,2006,06 - 09 years,Male,Car passengers,Injured,33
+321,2006,06 - 09 years,Male,Car passengers,Killed,1
+322,2006,06 - 09 years,Male,Car drivers,Injured,0
+323,2006,06 - 09 years,Male,Car drivers,Killed,0
+324,2006,06 - 09 years,Female,Pedestrians,Injured,27
+325,2006,06 - 09 years,Female,Pedestrians,Killed,0
+326,2006,06 - 09 years,Female,Pedal cyclists,Injured,2
+327,2006,06 - 09 years,Female,Pedal cyclists,Killed,0
+328,2006,06 - 09 years,Female,Other road users,Injured,7
+329,2006,06 - 09 years,Female,Other road users,Killed,0
+330,2006,06 - 09 years,Female,Motor cyclists,Injured,0
+331,2006,06 - 09 years,Female,Motor cyclists,Killed,0
+332,2006,06 - 09 years,Female,Car passengers,Injured,41
+333,2006,06 - 09 years,Female,Car passengers,Killed,1
+334,2006,06 - 09 years,Female,Car drivers,Injured,0
+335,2006,06 - 09 years,Female,Car drivers,Killed,0
+336,2006,10 - 14 years,Male,Pedestrians,Injured,44
+337,2006,10 - 14 years,Male,Pedestrians,Killed,0
+338,2006,10 - 14 years,Male,Pedal cyclists,Injured,18
+339,2006,10 - 14 years,Male,Pedal cyclists,Killed,0
+340,2006,10 - 14 years,Male,Other road users,Injured,10
+341,2006,10 - 14 years,Male,Other road users,Killed,0
+342,2006,10 - 14 years,Male,Motor cyclists,Injured,3
+343,2006,10 - 14 years,Male,Motor cyclists,Killed,0
+344,2006,10 - 14 years,Male,Car passengers,Injured,45
+345,2006,10 - 14 years,Male,Car passengers,Killed,1
+346,2006,10 - 14 years,Male,Car drivers,Injured,0
+347,2006,10 - 14 years,Male,Car drivers,Killed,0
+348,2006,10 - 14 years,Female,Pedestrians,Injured,34
+349,2006,10 - 14 years,Female,Pedestrians,Killed,1
+350,2006,10 - 14 years,Female,Pedal cyclists,Injured,2
+351,2006,10 - 14 years,Female,Pedal cyclists,Killed,0
+352,2006,10 - 14 years,Female,Other road users,Injured,9
+353,2006,10 - 14 years,Female,Other road users,Killed,1
+354,2006,10 - 14 years,Female,Motor cyclists,Injured,0
+355,2006,10 - 14 years,Female,Motor cyclists,Killed,0
+356,2006,10 - 14 years,Female,Car passengers,Injured,55
+357,2006,10 - 14 years,Female,Car passengers,Killed,0
+358,2006,10 - 14 years,Female,Car drivers,Injured,1
+359,2006,10 - 14 years,Female,Car drivers,Killed,0
+360,2006,15 - 17 years,Male,Pedestrians,Injured,27
+361,2006,15 - 17 years,Male,Pedestrians,Killed,1
+362,2006,15 - 17 years,Male,Pedal cyclists,Injured,4
+363,2006,15 - 17 years,Male,Pedal cyclists,Killed,0
+364,2006,15 - 17 years,Male,Other road users,Injured,24
+365,2006,15 - 17 years,Male,Other road users,Killed,2
+366,2006,15 - 17 years,Male,Motor cyclists,Injured,28
+367,2006,15 - 17 years,Male,Motor cyclists,Killed,1
+368,2006,15 - 17 years,Male,Car passengers,Injured,96
+369,2006,15 - 17 years,Male,Car passengers,Killed,4
+370,2006,15 - 17 years,Male,Car drivers,Injured,50
+371,2006,15 - 17 years,Male,Car drivers,Killed,5
+372,2006,15 - 17 years,Female,Pedestrians,Injured,26
+373,2006,15 - 17 years,Female,Pedestrians,Killed,2
+374,2006,15 - 17 years,Female,Pedal cyclists,Injured,1
+375,2006,15 - 17 years,Female,Pedal cyclists,Killed,0
+376,2006,15 - 17 years,Female,Other road users,Injured,11
+377,2006,15 - 17 years,Female,Other road users,Killed,0
+378,2006,15 - 17 years,Female,Motor cyclists,Injured,1
+379,2006,15 - 17 years,Female,Motor cyclists,Killed,0
+380,2006,15 - 17 years,Female,Car passengers,Injured,119
+381,2006,15 - 17 years,Female,Car passengers,Killed,2
+382,2006,15 - 17 years,Female,Car drivers,Injured,19
+383,2006,15 - 17 years,Female,Car drivers,Killed,1
+384,2006,18 - 20 years,Male,Pedestrians,Injured,27
+385,2006,18 - 20 years,Male,Pedestrians,Killed,3
+386,2006,18 - 20 years,Male,Pedal cyclists,Injured,7
+387,2006,18 - 20 years,Male,Pedal cyclists,Killed,0
+388,2006,18 - 20 years,Male,Other road users,Injured,56
+389,2006,18 - 20 years,Male,Other road users,Killed,2
+390,2006,18 - 20 years,Male,Motor cyclists,Injured,24
+391,2006,18 - 20 years,Male,Motor cyclists,Killed,2
+392,2006,18 - 20 years,Male,Car passengers,Injured,154
+393,2006,18 - 20 years,Male,Car passengers,Killed,7
+394,2006,18 - 20 years,Male,Car drivers,Injured,264
+395,2006,18 - 20 years,Male,Car drivers,Killed,15
+396,2006,18 - 20 years,Female,Pedestrians,Injured,31
+397,2006,18 - 20 years,Female,Pedestrians,Killed,1
+398,2006,18 - 20 years,Female,Pedal cyclists,Injured,1
+399,2006,18 - 20 years,Female,Pedal cyclists,Killed,0
+400,2006,18 - 20 years,Female,Other road users,Injured,12
+401,2006,18 - 20 years,Female,Other road users,Killed,0
+402,2006,18 - 20 years,Female,Motor cyclists,Injured,3
+403,2006,18 - 20 years,Female,Motor cyclists,Killed,0
+404,2006,18 - 20 years,Female,Car passengers,Injured,157
+405,2006,18 - 20 years,Female,Car passengers,Killed,8
+406,2006,18 - 20 years,Female,Car drivers,Injured,134
+407,2006,18 - 20 years,Female,Car drivers,Killed,3
+408,2006,21 - 24 years,Male,Pedestrians,Injured,46
+409,2006,21 - 24 years,Male,Pedestrians,Killed,4
+410,2006,21 - 24 years,Male,Pedal cyclists,Injured,8
+411,2006,21 - 24 years,Male,Pedal cyclists,Killed,1
+412,2006,21 - 24 years,Male,Other road users,Injured,81
+413,2006,21 - 24 years,Male,Other road users,Killed,4
+414,2006,21 - 24 years,Male,Motor cyclists,Injured,40
+415,2006,21 - 24 years,Male,Motor cyclists,Killed,3
+416,2006,21 - 24 years,Male,Car passengers,Injured,131
+417,2006,21 - 24 years,Male,Car passengers,Killed,7
+418,2006,21 - 24 years,Male,Car drivers,Injured,298
+419,2006,21 - 24 years,Male,Car drivers,Killed,27
+420,2006,21 - 24 years,Female,Pedestrians,Injured,26
+421,2006,21 - 24 years,Female,Pedestrians,Killed,0
+422,2006,21 - 24 years,Female,Pedal cyclists,Injured,4
+423,2006,21 - 24 years,Female,Pedal cyclists,Killed,0
+424,2006,21 - 24 years,Female,Other road users,Injured,14
+425,2006,21 - 24 years,Female,Other road users,Killed,0
+426,2006,21 - 24 years,Female,Motor cyclists,Injured,6
+427,2006,21 - 24 years,Female,Motor cyclists,Killed,0
+428,2006,21 - 24 years,Female,Car passengers,Injured,102
+429,2006,21 - 24 years,Female,Car passengers,Killed,4
+430,2006,21 - 24 years,Female,Car drivers,Injured,202
+431,2006,21 - 24 years,Female,Car drivers,Killed,4
+432,2006,25 - 34 years,Male,Pedestrians,Injured,63
+433,2006,25 - 34 years,Male,Pedestrians,Killed,6
+434,2006,25 - 34 years,Male,Pedal cyclists,Injured,38
+435,2006,25 - 34 years,Male,Pedal cyclists,Killed,1
+436,2006,25 - 34 years,Male,Other road users,Injured,203
+437,2006,25 - 34 years,Male,Other road users,Killed,3
+438,2006,25 - 34 years,Male,Motor cyclists,Injured,155
+439,2006,25 - 34 years,Male,Motor cyclists,Killed,10
+440,2006,25 - 34 years,Male,Car passengers,Injured,144
+441,2006,25 - 34 years,Male,Car passengers,Killed,18
+442,2006,25 - 34 years,Male,Car drivers,Injured,470
+443,2006,25 - 34 years,Male,Car drivers,Killed,26
+444,2006,25 - 34 years,Female,Pedestrians,Injured,45
+445,2006,25 - 34 years,Female,Pedestrians,Killed,0
+446,2006,25 - 34 years,Female,Pedal cyclists,Injured,12
+447,2006,25 - 34 years,Female,Pedal cyclists,Killed,2
+448,2006,25 - 34 years,Female,Other road users,Injured,27
+449,2006,25 - 34 years,Female,Other road users,Killed,1
+450,2006,25 - 34 years,Female,Motor cyclists,Injured,19
+451,2006,25 - 34 years,Female,Motor cyclists,Killed,1
+452,2006,25 - 34 years,Female,Car passengers,Injured,137
+453,2006,25 - 34 years,Female,Car passengers,Killed,3
+454,2006,25 - 34 years,Female,Car drivers,Injured,460
+455,2006,25 - 34 years,Female,Car drivers,Killed,8
+456,2006,35 - 44 years,Male,Pedestrians,Injured,56
+457,2006,35 - 44 years,Male,Pedestrians,Killed,6
+458,2006,35 - 44 years,Male,Pedal cyclists,Injured,24
+459,2006,35 - 44 years,Male,Pedal cyclists,Killed,1
+460,2006,35 - 44 years,Male,Other road users,Injured,143
+461,2006,35 - 44 years,Male,Other road users,Killed,4
+462,2006,35 - 44 years,Male,Motor cyclists,Injured,102
+463,2006,35 - 44 years,Male,Motor cyclists,Killed,6
+464,2006,35 - 44 years,Male,Car passengers,Injured,46
+465,2006,35 - 44 years,Male,Car passengers,Killed,2
+466,2006,35 - 44 years,Male,Car drivers,Injured,297
+467,2006,35 - 44 years,Male,Car drivers,Killed,11
+468,2006,35 - 44 years,Female,Pedestrians,Injured,28
+469,2006,35 - 44 years,Female,Pedestrians,Killed,1
+470,2006,35 - 44 years,Female,Pedal cyclists,Injured,5
+471,2006,35 - 44 years,Female,Pedal cyclists,Killed,0
+472,2006,35 - 44 years,Female,Other road users,Injured,21
+473,2006,35 - 44 years,Female,Other road users,Killed,0
+474,2006,35 - 44 years,Female,Motor cyclists,Injured,6
+475,2006,35 - 44 years,Female,Motor cyclists,Killed,1
+476,2006,35 - 44 years,Female,Car passengers,Injured,67
+477,2006,35 - 44 years,Female,Car passengers,Killed,2
+478,2006,35 - 44 years,Female,Car drivers,Injured,334
+479,2006,35 - 44 years,Female,Car drivers,Killed,4
+480,2006,45 - 54 years,Male,Pedestrians,Injured,45
+481,2006,45 - 54 years,Male,Pedestrians,Killed,3
+482,2006,45 - 54 years,Male,Pedal cyclists,Injured,13
+483,2006,45 - 54 years,Male,Pedal cyclists,Killed,2
+484,2006,45 - 54 years,Male,Other road users,Injured,102
+485,2006,45 - 54 years,Male,Other road users,Killed,3
+486,2006,45 - 54 years,Male,Motor cyclists,Injured,35
+487,2006,45 - 54 years,Male,Motor cyclists,Killed,2
+488,2006,45 - 54 years,Male,Car passengers,Injured,26
+489,2006,45 - 54 years,Male,Car passengers,Killed,3
+490,2006,45 - 54 years,Male,Car drivers,Injured,200
+491,2006,45 - 54 years,Male,Car drivers,Killed,4
+492,2006,45 - 54 years,Female,Pedestrians,Injured,29
+493,2006,45 - 54 years,Female,Pedestrians,Killed,0
+494,2006,45 - 54 years,Female,Pedal cyclists,Injured,7
+495,2006,45 - 54 years,Female,Pedal cyclists,Killed,0
+496,2006,45 - 54 years,Female,Other road users,Injured,14
+497,2006,45 - 54 years,Female,Other road users,Killed,0
+498,2006,45 - 54 years,Female,Motor cyclists,Injured,4
+499,2006,45 - 54 years,Female,Motor cyclists,Killed,1
+500,2006,45 - 54 years,Female,Car passengers,Injured,73
+501,2006,45 - 54 years,Female,Car passengers,Killed,2
+502,2006,45 - 54 years,Female,Car drivers,Injured,240
+503,2006,45 - 54 years,Female,Car drivers,Killed,2
+504,2006,55 - 64 years,Male,Pedestrians,Injured,36
+505,2006,55 - 64 years,Male,Pedestrians,Killed,8
+506,2006,55 - 64 years,Male,Pedal cyclists,Injured,8
+507,2006,55 - 64 years,Male,Pedal cyclists,Killed,2
+508,2006,55 - 64 years,Male,Other road users,Injured,60
+509,2006,55 - 64 years,Male,Other road users,Killed,3
+510,2006,55 - 64 years,Male,Motor cyclists,Injured,13
+511,2006,55 - 64 years,Male,Motor cyclists,Killed,2
+512,2006,55 - 64 years,Male,Car passengers,Injured,18
+513,2006,55 - 64 years,Male,Car passengers,Killed,0
+514,2006,55 - 64 years,Male,Car drivers,Injured,134
+515,2006,55 - 64 years,Male,Car drivers,Killed,8
+516,2006,55 - 64 years,Female,Pedestrians,Injured,32
+517,2006,55 - 64 years,Female,Pedestrians,Killed,0
+518,2006,55 - 64 years,Female,Pedal cyclists,Injured,2
+519,2006,55 - 64 years,Female,Pedal cyclists,Killed,0
+520,2006,55 - 64 years,Female,Other road users,Injured,10
+521,2006,55 - 64 years,Female,Other road users,Killed,0
+522,2006,55 - 64 years,Female,Motor cyclists,Injured,0
+523,2006,55 - 64 years,Female,Motor cyclists,Killed,0
+524,2006,55 - 64 years,Female,Car passengers,Injured,75
+525,2006,55 - 64 years,Female,Car passengers,Killed,3
+526,2006,55 - 64 years,Female,Car drivers,Injured,121
+527,2006,55 - 64 years,Female,Car drivers,Killed,2
+528,2006,65 years and over,Male,Pedestrians,Injured,46
+529,2006,65 years and over,Male,Pedestrians,Killed,14
+530,2006,65 years and over,Male,Pedal cyclists,Injured,9
+531,2006,65 years and over,Male,Pedal cyclists,Killed,0
+532,2006,65 years and over,Male,Other road users,Injured,30
+533,2006,65 years and over,Male,Other road users,Killed,4
+534,2006,65 years and over,Male,Motor cyclists,Injured,4
+535,2006,65 years and over,Male,Motor cyclists,Killed,0
+536,2006,65 years and over,Male,Car passengers,Injured,23
+537,2006,65 years and over,Male,Car passengers,Killed,0
+538,2006,65 years and over,Male,Car drivers,Injured,134
+539,2006,65 years and over,Male,Car drivers,Killed,13
+540,2006,65 years and over,Female,Pedestrians,Injured,70
+541,2006,65 years and over,Female,Pedestrians,Killed,15
+542,2006,65 years and over,Female,Pedal cyclists,Injured,0
+543,2006,65 years and over,Female,Pedal cyclists,Killed,0
+544,2006,65 years and over,Female,Other road users,Injured,15
+545,2006,65 years and over,Female,Other road users,Killed,1
+546,2006,65 years and over,Female,Motor cyclists,Injured,2
+547,2006,65 years and over,Female,Motor cyclists,Killed,0
+548,2006,65 years and over,Female,Car passengers,Injured,88
+549,2006,65 years and over,Female,Car passengers,Killed,4
+550,2006,65 years and over,Female,Car drivers,Injured,94
+551,2006,65 years and over,Female,Car drivers,Killed,12
+552,2006,Age unknown,Male,Pedestrians,Injured,26
+553,2006,Age unknown,Male,Pedestrians,Killed,0
+554,2006,Age unknown,Male,Pedal cyclists,Injured,16
+555,2006,Age unknown,Male,Pedal cyclists,Killed,0
+556,2006,Age unknown,Male,Other road users,Injured,17
+557,2006,Age unknown,Male,Other road users,Killed,0
+558,2006,Age unknown,Male,Motor cyclists,Injured,16
+559,2006,Age unknown,Male,Motor cyclists,Killed,0
+560,2006,Age unknown,Male,Car passengers,Injured,19
+561,2006,Age unknown,Male,Car passengers,Killed,0
+562,2006,Age unknown,Male,Car drivers,Injured,41
+563,2006,Age unknown,Male,Car drivers,Killed,0
+564,2006,Age unknown,Female,Pedestrians,Injured,20
+565,2006,Age unknown,Female,Pedestrians,Killed,0
+566,2006,Age unknown,Female,Pedal cyclists,Injured,6
+567,2006,Age unknown,Female,Pedal cyclists,Killed,0
+568,2006,Age unknown,Female,Other road users,Injured,11
+569,2006,Age unknown,Female,Other road users,Killed,0
+570,2006,Age unknown,Female,Motor cyclists,Injured,1
+571,2006,Age unknown,Female,Motor cyclists,Killed,0
+572,2006,Age unknown,Female,Car passengers,Injured,38
+573,2006,Age unknown,Female,Car passengers,Killed,0
+574,2006,Age unknown,Female,Car drivers,Injured,35
+575,2006,Age unknown,Female,Car drivers,Killed,0
+576,2007,00 - 05 years,Male,Pedestrians,Injured,28
+577,2007,00 - 05 years,Male,Pedestrians,Killed,0
+578,2007,00 - 05 years,Male,Pedal cyclists,Injured,2
+579,2007,00 - 05 years,Male,Pedal cyclists,Killed,0
+580,2007,00 - 05 years,Male,Other road users,Injured,2
+581,2007,00 - 05 years,Male,Other road users,Killed,0
+582,2007,00 - 05 years,Male,Motor cyclists,Injured,0
+583,2007,00 - 05 years,Male,Motor cyclists,Killed,0
+584,2007,00 - 05 years,Male,Car passengers,Injured,69
+585,2007,00 - 05 years,Male,Car passengers,Killed,2
+586,2007,00 - 05 years,Male,Car drivers,Injured,0
+587,2007,00 - 05 years,Male,Car drivers,Killed,0
+588,2007,00 - 05 years,Female,Pedestrians,Injured,21
+589,2007,00 - 05 years,Female,Pedestrians,Killed,1
+590,2007,00 - 05 years,Female,Pedal cyclists,Injured,1
+591,2007,00 - 05 years,Female,Pedal cyclists,Killed,0
+592,2007,00 - 05 years,Female,Other road users,Injured,0
+593,2007,00 - 05 years,Female,Other road users,Killed,0
+594,2007,00 - 05 years,Female,Motor cyclists,Injured,0
+595,2007,00 - 05 years,Female,Motor cyclists,Killed,0
+596,2007,00 - 05 years,Female,Car passengers,Injured,74
+597,2007,00 - 05 years,Female,Car passengers,Killed,5
+598,2007,00 - 05 years,Female,Car drivers,Injured,0
+599,2007,00 - 05 years,Female,Car drivers,Killed,0
+600,2007,06 - 09 years,Male,Pedestrians,Injured,50
+601,2007,06 - 09 years,Male,Pedestrians,Killed,0
+602,2007,06 - 09 years,Male,Pedal cyclists,Injured,6
+603,2007,06 - 09 years,Male,Pedal cyclists,Killed,0
+604,2007,06 - 09 years,Male,Other road users,Injured,7
+605,2007,06 - 09 years,Male,Other road users,Killed,0
+606,2007,06 - 09 years,Male,Motor cyclists,Injured,0
+607,2007,06 - 09 years,Male,Motor cyclists,Killed,0
+608,2007,06 - 09 years,Male,Car passengers,Injured,38
+609,2007,06 - 09 years,Male,Car passengers,Killed,0
+610,2007,06 - 09 years,Male,Car drivers,Injured,0
+611,2007,06 - 09 years,Male,Car drivers,Killed,0
+612,2007,06 - 09 years,Female,Pedestrians,Injured,22
+613,2007,06 - 09 years,Female,Pedestrians,Killed,0
+614,2007,06 - 09 years,Female,Pedal cyclists,Injured,4
+615,2007,06 - 09 years,Female,Pedal cyclists,Killed,0
+616,2007,06 - 09 years,Female,Other road users,Injured,2
+617,2007,06 - 09 years,Female,Other road users,Killed,0
+618,2007,06 - 09 years,Female,Motor cyclists,Injured,1
+619,2007,06 - 09 years,Female,Motor cyclists,Killed,0
+620,2007,06 - 09 years,Female,Car passengers,Injured,36
+621,2007,06 - 09 years,Female,Car passengers,Killed,1
+622,2007,06 - 09 years,Female,Car drivers,Injured,0
+623,2007,06 - 09 years,Female,Car drivers,Killed,0
+624,2007,10 - 14 years,Male,Pedestrians,Injured,41
+625,2007,10 - 14 years,Male,Pedestrians,Killed,3
+626,2007,10 - 14 years,Male,Pedal cyclists,Injured,26
+627,2007,10 - 14 years,Male,Pedal cyclists,Killed,2
+628,2007,10 - 14 years,Male,Other road users,Injured,7
+629,2007,10 - 14 years,Male,Other road users,Killed,0
+630,2007,10 - 14 years,Male,Motor cyclists,Injured,1
+631,2007,10 - 14 years,Male,Motor cyclists,Killed,0
+632,2007,10 - 14 years,Male,Car passengers,Injured,56
+633,2007,10 - 14 years,Male,Car passengers,Killed,0
+634,2007,10 - 14 years,Male,Car drivers,Injured,1
+635,2007,10 - 14 years,Male,Car drivers,Killed,0
+636,2007,10 - 14 years,Female,Pedestrians,Injured,29
+637,2007,10 - 14 years,Female,Pedestrians,Killed,0
+638,2007,10 - 14 years,Female,Pedal cyclists,Injured,4
+639,2007,10 - 14 years,Female,Pedal cyclists,Killed,1
+640,2007,10 - 14 years,Female,Other road users,Injured,3
+641,2007,10 - 14 years,Female,Other road users,Killed,0
+642,2007,10 - 14 years,Female,Motor cyclists,Injured,1
+643,2007,10 - 14 years,Female,Motor cyclists,Killed,0
+644,2007,10 - 14 years,Female,Car passengers,Injured,66
+645,2007,10 - 14 years,Female,Car passengers,Killed,1
+646,2007,10 - 14 years,Female,Car drivers,Injured,0
+647,2007,10 - 14 years,Female,Car drivers,Killed,0
+648,2007,15 - 17 years,Male,Pedestrians,Injured,17
+649,2007,15 - 17 years,Male,Pedestrians,Killed,2
+650,2007,15 - 17 years,Male,Pedal cyclists,Injured,12
+651,2007,15 - 17 years,Male,Pedal cyclists,Killed,0
+652,2007,15 - 17 years,Male,Other road users,Injured,23
+653,2007,15 - 17 years,Male,Other road users,Killed,1
+654,2007,15 - 17 years,Male,Motor cyclists,Injured,16
+655,2007,15 - 17 years,Male,Motor cyclists,Killed,0
+656,2007,15 - 17 years,Male,Car passengers,Injured,92
+657,2007,15 - 17 years,Male,Car passengers,Killed,6
+658,2007,15 - 17 years,Male,Car drivers,Injured,52
+659,2007,15 - 17 years,Male,Car drivers,Killed,3
+660,2007,15 - 17 years,Female,Pedestrians,Injured,29
+661,2007,15 - 17 years,Female,Pedestrians,Killed,0
+662,2007,15 - 17 years,Female,Pedal cyclists,Injured,2
+663,2007,15 - 17 years,Female,Pedal cyclists,Killed,0
+664,2007,15 - 17 years,Female,Other road users,Injured,6
+665,2007,15 - 17 years,Female,Other road users,Killed,0
+666,2007,15 - 17 years,Female,Motor cyclists,Injured,2
+667,2007,15 - 17 years,Female,Motor cyclists,Killed,0
+668,2007,15 - 17 years,Female,Car passengers,Injured,110
+669,2007,15 - 17 years,Female,Car passengers,Killed,2
+670,2007,15 - 17 years,Female,Car drivers,Injured,19
+671,2007,15 - 17 years,Female,Car drivers,Killed,0
+672,2007,18 - 20 years,Male,Pedestrians,Injured,35
+673,2007,18 - 20 years,Male,Pedestrians,Killed,3
+674,2007,18 - 20 years,Male,Pedal cyclists,Injured,5
+675,2007,18 - 20 years,Male,Pedal cyclists,Killed,2
+676,2007,18 - 20 years,Male,Other road users,Injured,47
+677,2007,18 - 20 years,Male,Other road users,Killed,4
+678,2007,18 - 20 years,Male,Motor cyclists,Injured,21
+679,2007,18 - 20 years,Male,Motor cyclists,Killed,3
+680,2007,18 - 20 years,Male,Car passengers,Injured,145
+681,2007,18 - 20 years,Male,Car passengers,Killed,5
+682,2007,18 - 20 years,Male,Car drivers,Injured,234
+683,2007,18 - 20 years,Male,Car drivers,Killed,11
+684,2007,18 - 20 years,Female,Pedestrians,Injured,22
+685,2007,18 - 20 years,Female,Pedestrians,Killed,3
+686,2007,18 - 20 years,Female,Pedal cyclists,Injured,1
+687,2007,18 - 20 years,Female,Pedal cyclists,Killed,0
+688,2007,18 - 20 years,Female,Other road users,Injured,8
+689,2007,18 - 20 years,Female,Other road users,Killed,0
+690,2007,18 - 20 years,Female,Motor cyclists,Injured,2
+691,2007,18 - 20 years,Female,Motor cyclists,Killed,0
+692,2007,18 - 20 years,Female,Car passengers,Injured,171
+693,2007,18 - 20 years,Female,Car passengers,Killed,4
+694,2007,18 - 20 years,Female,Car drivers,Injured,145
+695,2007,18 - 20 years,Female,Car drivers,Killed,1
+696,2007,21 - 24 years,Male,Pedestrians,Injured,42
+697,2007,21 - 24 years,Male,Pedestrians,Killed,5
+698,2007,21 - 24 years,Male,Pedal cyclists,Injured,13
+699,2007,21 - 24 years,Male,Pedal cyclists,Killed,0
+700,2007,21 - 24 years,Male,Other road users,Injured,68
+701,2007,21 - 24 years,Male,Other road users,Killed,4
+702,2007,21 - 24 years,Male,Motor cyclists,Injured,36
+703,2007,21 - 24 years,Male,Motor cyclists,Killed,4
+704,2007,21 - 24 years,Male,Car passengers,Injured,121
+705,2007,21 - 24 years,Male,Car passengers,Killed,8
+706,2007,21 - 24 years,Male,Car drivers,Injured,250
+707,2007,21 - 24 years,Male,Car drivers,Killed,12
+708,2007,21 - 24 years,Female,Pedestrians,Injured,34
+709,2007,21 - 24 years,Female,Pedestrians,Killed,0
+710,2007,21 - 24 years,Female,Pedal cyclists,Injured,5
+711,2007,21 - 24 years,Female,Pedal cyclists,Killed,0
+712,2007,21 - 24 years,Female,Other road users,Injured,11
+713,2007,21 - 24 years,Female,Other road users,Killed,0
+714,2007,21 - 24 years,Female,Motor cyclists,Injured,4
+715,2007,21 - 24 years,Female,Motor cyclists,Killed,0
+716,2007,21 - 24 years,Female,Car passengers,Injured,91
+717,2007,21 - 24 years,Female,Car passengers,Killed,3
+718,2007,21 - 24 years,Female,Car drivers,Injured,216
+719,2007,21 - 24 years,Female,Car drivers,Killed,3
+720,2007,25 - 34 years,Male,Pedestrians,Injured,69
+721,2007,25 - 34 years,Male,Pedestrians,Killed,3
+722,2007,25 - 34 years,Male,Pedal cyclists,Injured,41
+723,2007,25 - 34 years,Male,Pedal cyclists,Killed,2
+724,2007,25 - 34 years,Male,Other road users,Injured,163
+725,2007,25 - 34 years,Male,Other road users,Killed,5
+726,2007,25 - 34 years,Male,Motor cyclists,Injured,116
+727,2007,25 - 34 years,Male,Motor cyclists,Killed,11
+728,2007,25 - 34 years,Male,Car passengers,Injured,130
+729,2007,25 - 34 years,Male,Car passengers,Killed,7
+730,2007,25 - 34 years,Male,Car drivers,Injured,395
+731,2007,25 - 34 years,Male,Car drivers,Killed,24
+732,2007,25 - 34 years,Female,Pedestrians,Injured,50
+733,2007,25 - 34 years,Female,Pedestrians,Killed,0
+734,2007,25 - 34 years,Female,Pedal cyclists,Injured,20
+735,2007,25 - 34 years,Female,Pedal cyclists,Killed,0
+736,2007,25 - 34 years,Female,Other road users,Injured,29
+737,2007,25 - 34 years,Female,Other road users,Killed,0
+738,2007,25 - 34 years,Female,Motor cyclists,Injured,9
+739,2007,25 - 34 years,Female,Motor cyclists,Killed,0
+740,2007,25 - 34 years,Female,Car passengers,Injured,158
+741,2007,25 - 34 years,Female,Car passengers,Killed,2
+742,2007,25 - 34 years,Female,Car drivers,Injured,430
+743,2007,25 - 34 years,Female,Car drivers,Killed,6
+744,2007,35 - 44 years,Male,Pedestrians,Injured,54
+745,2007,35 - 44 years,Male,Pedestrians,Killed,5
+746,2007,35 - 44 years,Male,Pedal cyclists,Injured,34
+747,2007,35 - 44 years,Male,Pedal cyclists,Killed,1
+748,2007,35 - 44 years,Male,Other road users,Injured,121
+749,2007,35 - 44 years,Male,Other road users,Killed,7
+750,2007,35 - 44 years,Male,Motor cyclists,Injured,72
+751,2007,35 - 44 years,Male,Motor cyclists,Killed,9
+752,2007,35 - 44 years,Male,Car passengers,Injured,52
+753,2007,35 - 44 years,Male,Car passengers,Killed,2
+754,2007,35 - 44 years,Male,Car drivers,Injured,287
+755,2007,35 - 44 years,Male,Car drivers,Killed,12
+756,2007,35 - 44 years,Female,Pedestrians,Injured,32
+757,2007,35 - 44 years,Female,Pedestrians,Killed,2
+758,2007,35 - 44 years,Female,Pedal cyclists,Injured,3
+759,2007,35 - 44 years,Female,Pedal cyclists,Killed,0
+760,2007,35 - 44 years,Female,Other road users,Injured,15
+761,2007,35 - 44 years,Female,Other road users,Killed,0
+762,2007,35 - 44 years,Female,Motor cyclists,Injured,2
+763,2007,35 - 44 years,Female,Motor cyclists,Killed,0
+764,2007,35 - 44 years,Female,Car passengers,Injured,89
+765,2007,35 - 44 years,Female,Car passengers,Killed,2
+766,2007,35 - 44 years,Female,Car drivers,Injured,294
+767,2007,35 - 44 years,Female,Car drivers,Killed,5
+768,2007,45 - 54 years,Male,Pedestrians,Injured,36
+769,2007,45 - 54 years,Male,Pedestrians,Killed,7
+770,2007,45 - 54 years,Male,Pedal cyclists,Injured,27
+771,2007,45 - 54 years,Male,Pedal cyclists,Killed,0
+772,2007,45 - 54 years,Male,Other road users,Injured,96
+773,2007,45 - 54 years,Male,Other road users,Killed,8
+774,2007,45 - 54 years,Male,Motor cyclists,Injured,44
+775,2007,45 - 54 years,Male,Motor cyclists,Killed,3
+776,2007,45 - 54 years,Male,Car passengers,Injured,29
+777,2007,45 - 54 years,Male,Car passengers,Killed,0
+778,2007,45 - 54 years,Male,Car drivers,Injured,176
+779,2007,45 - 54 years,Male,Car drivers,Killed,4
+780,2007,45 - 54 years,Female,Pedestrians,Injured,29
+781,2007,45 - 54 years,Female,Pedestrians,Killed,2
+782,2007,45 - 54 years,Female,Pedal cyclists,Injured,7
+783,2007,45 - 54 years,Female,Pedal cyclists,Killed,2
+784,2007,45 - 54 years,Female,Other road users,Injured,15
+785,2007,45 - 54 years,Female,Other road users,Killed,0
+786,2007,45 - 54 years,Female,Motor cyclists,Injured,6
+787,2007,45 - 54 years,Female,Motor cyclists,Killed,0
+788,2007,45 - 54 years,Female,Car passengers,Injured,72
+789,2007,45 - 54 years,Female,Car passengers,Killed,0
+790,2007,45 - 54 years,Female,Car drivers,Injured,196
+791,2007,45 - 54 years,Female,Car drivers,Killed,2
+792,2007,55 - 64 years,Male,Pedestrians,Injured,36
+793,2007,55 - 64 years,Male,Pedestrians,Killed,7
+794,2007,55 - 64 years,Male,Pedal cyclists,Injured,6
+795,2007,55 - 64 years,Male,Pedal cyclists,Killed,3
+796,2007,55 - 64 years,Male,Other road users,Injured,53
+797,2007,55 - 64 years,Male,Other road users,Killed,5
+798,2007,55 - 64 years,Male,Motor cyclists,Injured,11
+799,2007,55 - 64 years,Male,Motor cyclists,Killed,1
+800,2007,55 - 64 years,Male,Car passengers,Injured,22
+801,2007,55 - 64 years,Male,Car passengers,Killed,1
+802,2007,55 - 64 years,Male,Car drivers,Injured,143
+803,2007,55 - 64 years,Male,Car drivers,Killed,4
+804,2007,55 - 64 years,Female,Pedestrians,Injured,29
+805,2007,55 - 64 years,Female,Pedestrians,Killed,4
+806,2007,55 - 64 years,Female,Pedal cyclists,Injured,5
+807,2007,55 - 64 years,Female,Pedal cyclists,Killed,1
+808,2007,55 - 64 years,Female,Other road users,Injured,10
+809,2007,55 - 64 years,Female,Other road users,Killed,0
+810,2007,55 - 64 years,Female,Motor cyclists,Injured,1
+811,2007,55 - 64 years,Female,Motor cyclists,Killed,0
+812,2007,55 - 64 years,Female,Car passengers,Injured,85
+813,2007,55 - 64 years,Female,Car passengers,Killed,4
+814,2007,55 - 64 years,Female,Car drivers,Injured,126
+815,2007,55 - 64 years,Female,Car drivers,Killed,4
+816,2007,65 years and over,Male,Pedestrians,Injured,61
+817,2007,65 years and over,Male,Pedestrians,Killed,16
+818,2007,65 years and over,Male,Pedal cyclists,Injured,8
+819,2007,65 years and over,Male,Pedal cyclists,Killed,0
+820,2007,65 years and over,Male,Other road users,Injured,16
+821,2007,65 years and over,Male,Other road users,Killed,3
+822,2007,65 years and over,Male,Motor cyclists,Injured,4
+823,2007,65 years and over,Male,Motor cyclists,Killed,1
+824,2007,65 years and over,Male,Car passengers,Injured,27
+825,2007,65 years and over,Male,Car passengers,Killed,1
+826,2007,65 years and over,Male,Car drivers,Injured,154
+827,2007,65 years and over,Male,Car drivers,Killed,13
+828,2007,65 years and over,Female,Pedestrians,Injured,53
+829,2007,65 years and over,Female,Pedestrians,Killed,16
+830,2007,65 years and over,Female,Pedal cyclists,Injured,5
+831,2007,65 years and over,Female,Pedal cyclists,Killed,0
+832,2007,65 years and over,Female,Other road users,Injured,9
+833,2007,65 years and over,Female,Other road users,Killed,0
+834,2007,65 years and over,Female,Motor cyclists,Injured,0
+835,2007,65 years and over,Female,Motor cyclists,Killed,0
+836,2007,65 years and over,Female,Car passengers,Injured,94
+837,2007,65 years and over,Female,Car passengers,Killed,4
+838,2007,65 years and over,Female,Car drivers,Injured,85
+839,2007,65 years and over,Female,Car drivers,Killed,4
+840,2007,Age unknown,Male,Pedestrians,Injured,18
+841,2007,Age unknown,Male,Pedestrians,Killed,1
+842,2007,Age unknown,Male,Pedal cyclists,Injured,7
+843,2007,Age unknown,Male,Pedal cyclists,Killed,0
+844,2007,Age unknown,Male,Other road users,Injured,10
+845,2007,Age unknown,Male,Other road users,Killed,0
+846,2007,Age unknown,Male,Motor cyclists,Injured,8
+847,2007,Age unknown,Male,Motor cyclists,Killed,1
+848,2007,Age unknown,Male,Car passengers,Injured,15
+849,2007,Age unknown,Male,Car passengers,Killed,1
+850,2007,Age unknown,Male,Car drivers,Injured,20
+851,2007,Age unknown,Male,Car drivers,Killed,2
+852,2007,Age unknown,Female,Pedestrians,Injured,12
+853,2007,Age unknown,Female,Pedestrians,Killed,0
+854,2007,Age unknown,Female,Pedal cyclists,Injured,2
+855,2007,Age unknown,Female,Pedal cyclists,Killed,0
+856,2007,Age unknown,Female,Other road users,Injured,3
+857,2007,Age unknown,Female,Other road users,Killed,0
+858,2007,Age unknown,Female,Motor cyclists,Injured,0
+859,2007,Age unknown,Female,Motor cyclists,Killed,0
+860,2007,Age unknown,Female,Car passengers,Injured,20
+861,2007,Age unknown,Female,Car passengers,Killed,0
+862,2007,Age unknown,Female,Car drivers,Injured,20
+863,2007,Age unknown,Female,Car drivers,Killed,0
+864,2008,00 - 05 years,Male,Pedestrians,Injured,54
+865,2008,00 - 05 years,Male,Pedestrians,Killed,1
+866,2008,00 - 05 years,Male,Pedal cyclists,Injured,0
+867,2008,00 - 05 years,Male,Pedal cyclists,Killed,0
+868,2008,00 - 05 years,Male,Other road users,Injured,3
+869,2008,00 - 05 years,Male,Other road users,Killed,2
+870,2008,00 - 05 years,Male,Motor cyclists,Injured,0
+871,2008,00 - 05 years,Male,Motor cyclists,Killed,0
+872,2008,00 - 05 years,Male,Car passengers,Injured,97
+873,2008,00 - 05 years,Male,Car passengers,Killed,0
+874,2008,00 - 05 years,Male,Car drivers,Injured,0
+875,2008,00 - 05 years,Male,Car drivers,Killed,0
+876,2008,00 - 05 years,Female,Pedestrians,Injured,30
+877,2008,00 - 05 years,Female,Pedestrians,Killed,0
+878,2008,00 - 05 years,Female,Pedal cyclists,Injured,0
+879,2008,00 - 05 years,Female,Pedal cyclists,Killed,0
+880,2008,00 - 05 years,Female,Other road users,Injured,2
+881,2008,00 - 05 years,Female,Other road users,Killed,0
+882,2008,00 - 05 years,Female,Motor cyclists,Injured,0
+883,2008,00 - 05 years,Female,Motor cyclists,Killed,0
+884,2008,00 - 05 years,Female,Car passengers,Injured,92
+885,2008,00 - 05 years,Female,Car passengers,Killed,1
+886,2008,00 - 05 years,Female,Car drivers,Injured,0
+887,2008,00 - 05 years,Female,Car drivers,Killed,0
+888,2008,06 - 09 years,Male,Pedestrians,Injured,50
+889,2008,06 - 09 years,Male,Pedestrians,Killed,2
+890,2008,06 - 09 years,Male,Pedal cyclists,Injured,9
+891,2008,06 - 09 years,Male,Pedal cyclists,Killed,0
+892,2008,06 - 09 years,Male,Other road users,Injured,2
+893,2008,06 - 09 years,Male,Other road users,Killed,0
+894,2008,06 - 09 years,Male,Motor cyclists,Injured,1
+895,2008,06 - 09 years,Male,Motor cyclists,Killed,0
+896,2008,06 - 09 years,Male,Car passengers,Injured,69
+897,2008,06 - 09 years,Male,Car passengers,Killed,1
+898,2008,06 - 09 years,Male,Car drivers,Injured,0
+899,2008,06 - 09 years,Male,Car drivers,Killed,0
+900,2008,06 - 09 years,Female,Pedestrians,Injured,31
+901,2008,06 - 09 years,Female,Pedestrians,Killed,1
+902,2008,06 - 09 years,Female,Pedal cyclists,Injured,0
+903,2008,06 - 09 years,Female,Pedal cyclists,Killed,0
+904,2008,06 - 09 years,Female,Other road users,Injured,3
+905,2008,06 - 09 years,Female,Other road users,Killed,0
+906,2008,06 - 09 years,Female,Motor cyclists,Injured,0
+907,2008,06 - 09 years,Female,Motor cyclists,Killed,0
+908,2008,06 - 09 years,Female,Car passengers,Injured,55
+909,2008,06 - 09 years,Female,Car passengers,Killed,1
+910,2008,06 - 09 years,Female,Car drivers,Injured,0
+911,2008,06 - 09 years,Female,Car drivers,Killed,0
+912,2008,10 - 14 years,Male,Pedestrians,Injured,70
+913,2008,10 - 14 years,Male,Pedestrians,Killed,3
+914,2008,10 - 14 years,Male,Pedal cyclists,Injured,19
+915,2008,10 - 14 years,Male,Pedal cyclists,Killed,1
+916,2008,10 - 14 years,Male,Other road users,Injured,8
+917,2008,10 - 14 years,Male,Other road users,Killed,0
+918,2008,10 - 14 years,Male,Motor cyclists,Injured,2
+919,2008,10 - 14 years,Male,Motor cyclists,Killed,0
+920,2008,10 - 14 years,Male,Car passengers,Injured,75
+921,2008,10 - 14 years,Male,Car passengers,Killed,2
+922,2008,10 - 14 years,Male,Car drivers,Injured,1
+923,2008,10 - 14 years,Male,Car drivers,Killed,0
+924,2008,10 - 14 years,Female,Pedestrians,Injured,39
+925,2008,10 - 14 years,Female,Pedestrians,Killed,1
+926,2008,10 - 14 years,Female,Pedal cyclists,Injured,2
+927,2008,10 - 14 years,Female,Pedal cyclists,Killed,0
+928,2008,10 - 14 years,Female,Other road users,Injured,1
+929,2008,10 - 14 years,Female,Other road users,Killed,0
+930,2008,10 - 14 years,Female,Motor cyclists,Injured,0
+931,2008,10 - 14 years,Female,Motor cyclists,Killed,0
+932,2008,10 - 14 years,Female,Car passengers,Injured,75
+933,2008,10 - 14 years,Female,Car passengers,Killed,3
+934,2008,10 - 14 years,Female,Car drivers,Injured,0
+935,2008,10 - 14 years,Female,Car drivers,Killed,0
+936,2008,15 - 17 years,Male,Pedestrians,Injured,28
+937,2008,15 - 17 years,Male,Pedestrians,Killed,0
+938,2008,15 - 17 years,Male,Pedal cyclists,Injured,16
+939,2008,15 - 17 years,Male,Pedal cyclists,Killed,3
+940,2008,15 - 17 years,Male,Other road users,Injured,15
+941,2008,15 - 17 years,Male,Other road users,Killed,1
+942,2008,15 - 17 years,Male,Motor cyclists,Injured,16
+943,2008,15 - 17 years,Male,Motor cyclists,Killed,1
+944,2008,15 - 17 years,Male,Car passengers,Injured,123
+945,2008,15 - 17 years,Male,Car passengers,Killed,6
+946,2008,15 - 17 years,Male,Car drivers,Injured,63
+947,2008,15 - 17 years,Male,Car drivers,Killed,5
+948,2008,15 - 17 years,Female,Pedestrians,Injured,30
+949,2008,15 - 17 years,Female,Pedestrians,Killed,1
+950,2008,15 - 17 years,Female,Pedal cyclists,Injured,0
+951,2008,15 - 17 years,Female,Pedal cyclists,Killed,0
+952,2008,15 - 17 years,Female,Other road users,Injured,9
+953,2008,15 - 17 years,Female,Other road users,Killed,0
+954,2008,15 - 17 years,Female,Motor cyclists,Injured,2
+955,2008,15 - 17 years,Female,Motor cyclists,Killed,0
+956,2008,15 - 17 years,Female,Car passengers,Injured,123
+957,2008,15 - 17 years,Female,Car passengers,Killed,3
+958,2008,15 - 17 years,Female,Car drivers,Injured,26
+959,2008,15 - 17 years,Female,Car drivers,Killed,0
+960,2008,18 - 20 years,Male,Pedestrians,Injured,42
+961,2008,18 - 20 years,Male,Pedestrians,Killed,6
+962,2008,18 - 20 years,Male,Pedal cyclists,Injured,12
+963,2008,18 - 20 years,Male,Pedal cyclists,Killed,0
+964,2008,18 - 20 years,Male,Other road users,Injured,57
+965,2008,18 - 20 years,Male,Other road users,Killed,2
+966,2008,18 - 20 years,Male,Motor cyclists,Injured,20
+967,2008,18 - 20 years,Male,Motor cyclists,Killed,2
+968,2008,18 - 20 years,Male,Car passengers,Injured,179
+969,2008,18 - 20 years,Male,Car passengers,Killed,3
+970,2008,18 - 20 years,Male,Car drivers,Injured,243
+971,2008,18 - 20 years,Male,Car drivers,Killed,12
+972,2008,18 - 20 years,Female,Pedestrians,Injured,25
+973,2008,18 - 20 years,Female,Pedestrians,Killed,2
+974,2008,18 - 20 years,Female,Pedal cyclists,Injured,3
+975,2008,18 - 20 years,Female,Pedal cyclists,Killed,0
+976,2008,18 - 20 years,Female,Other road users,Injured,10
+977,2008,18 - 20 years,Female,Other road users,Killed,0
+978,2008,18 - 20 years,Female,Motor cyclists,Injured,0
+979,2008,18 - 20 years,Female,Motor cyclists,Killed,1
+980,2008,18 - 20 years,Female,Car passengers,Injured,171
+981,2008,18 - 20 years,Female,Car passengers,Killed,1
+982,2008,18 - 20 years,Female,Car drivers,Injured,153
+983,2008,18 - 20 years,Female,Car drivers,Killed,5
+984,2008,21 - 24 years,Male,Pedestrians,Injured,40
+985,2008,21 - 24 years,Male,Pedestrians,Killed,0
+986,2008,21 - 24 years,Male,Pedal cyclists,Injured,18
+987,2008,21 - 24 years,Male,Pedal cyclists,Killed,0
+988,2008,21 - 24 years,Male,Other road users,Injured,52
+989,2008,21 - 24 years,Male,Other road users,Killed,2
+990,2008,21 - 24 years,Male,Motor cyclists,Injured,49
+991,2008,21 - 24 years,Male,Motor cyclists,Killed,7
+992,2008,21 - 24 years,Male,Car passengers,Injured,162
+993,2008,21 - 24 years,Male,Car passengers,Killed,6
+994,2008,21 - 24 years,Male,Car drivers,Injured,226
+995,2008,21 - 24 years,Male,Car drivers,Killed,17
+996,2008,21 - 24 years,Female,Pedestrians,Injured,31
+997,2008,21 - 24 years,Female,Pedestrians,Killed,1
+998,2008,21 - 24 years,Female,Pedal cyclists,Injured,9
+999,2008,21 - 24 years,Female,Pedal cyclists,Killed,0
+1000,2008,21 - 24 years,Female,Other road users,Injured,15
+1001,2008,21 - 24 years,Female,Other road users,Killed,0
+1002,2008,21 - 24 years,Female,Motor cyclists,Injured,3
+1003,2008,21 - 24 years,Female,Motor cyclists,Killed,0
+1004,2008,21 - 24 years,Female,Car passengers,Injured,157
+1005,2008,21 - 24 years,Female,Car passengers,Killed,3
+1006,2008,21 - 24 years,Female,Car drivers,Injured,233
+1007,2008,21 - 24 years,Female,Car drivers,Killed,5
+1008,2008,25 - 34 years,Male,Pedestrians,Injured,95
+1009,2008,25 - 34 years,Male,Pedestrians,Killed,2
+1010,2008,25 - 34 years,Male,Pedal cyclists,Injured,68
+1011,2008,25 - 34 years,Male,Pedal cyclists,Killed,0
+1012,2008,25 - 34 years,Male,Other road users,Injured,168
+1013,2008,25 - 34 years,Male,Other road users,Killed,4
+1014,2008,25 - 34 years,Male,Motor cyclists,Injured,113
+1015,2008,25 - 34 years,Male,Motor cyclists,Killed,9
+1016,2008,25 - 34 years,Male,Car passengers,Injured,196
+1017,2008,25 - 34 years,Male,Car passengers,Killed,5
+1018,2008,25 - 34 years,Male,Car drivers,Injured,477
+1019,2008,25 - 34 years,Male,Car drivers,Killed,13
+1020,2008,25 - 34 years,Female,Pedestrians,Injured,56
+1021,2008,25 - 34 years,Female,Pedestrians,Killed,2
+1022,2008,25 - 34 years,Female,Pedal cyclists,Injured,31
+1023,2008,25 - 34 years,Female,Pedal cyclists,Killed,0
+1024,2008,25 - 34 years,Female,Other road users,Injured,29
+1025,2008,25 - 34 years,Female,Other road users,Killed,0
+1026,2008,25 - 34 years,Female,Motor cyclists,Injured,14
+1027,2008,25 - 34 years,Female,Motor cyclists,Killed,0
+1028,2008,25 - 34 years,Female,Car passengers,Injured,212
+1029,2008,25 - 34 years,Female,Car passengers,Killed,2
+1030,2008,25 - 34 years,Female,Car drivers,Injured,465
+1031,2008,25 - 34 years,Female,Car drivers,Killed,7
+1032,2008,35 - 44 years,Male,Pedestrians,Injured,67
+1033,2008,35 - 44 years,Male,Pedestrians,Killed,4
+1034,2008,35 - 44 years,Male,Pedal cyclists,Injured,36
+1035,2008,35 - 44 years,Male,Pedal cyclists,Killed,1
+1036,2008,35 - 44 years,Male,Other road users,Injured,103
+1037,2008,35 - 44 years,Male,Other road users,Killed,7
+1038,2008,35 - 44 years,Male,Motor cyclists,Injured,88
+1039,2008,35 - 44 years,Male,Motor cyclists,Killed,8
+1040,2008,35 - 44 years,Male,Car passengers,Injured,89
+1041,2008,35 - 44 years,Male,Car passengers,Killed,0
+1042,2008,35 - 44 years,Male,Car drivers,Injured,315
+1043,2008,35 - 44 years,Male,Car drivers,Killed,12
+1044,2008,35 - 44 years,Female,Pedestrians,Injured,46
+1045,2008,35 - 44 years,Female,Pedestrians,Killed,0
+1046,2008,35 - 44 years,Female,Pedal cyclists,Injured,11
+1047,2008,35 - 44 years,Female,Pedal cyclists,Killed,0
+1048,2008,35 - 44 years,Female,Other road users,Injured,13
+1049,2008,35 - 44 years,Female,Other road users,Killed,0
+1050,2008,35 - 44 years,Female,Motor cyclists,Injured,6
+1051,2008,35 - 44 years,Female,Motor cyclists,Killed,0
+1052,2008,35 - 44 years,Female,Car passengers,Injured,113
+1053,2008,35 - 44 years,Female,Car passengers,Killed,1
+1054,2008,35 - 44 years,Female,Car drivers,Injured,284
+1055,2008,35 - 44 years,Female,Car drivers,Killed,3
+1056,2008,45 - 54 years,Male,Pedestrians,Injured,46
+1057,2008,45 - 54 years,Male,Pedestrians,Killed,5
+1058,2008,45 - 54 years,Male,Pedal cyclists,Injured,22
+1059,2008,45 - 54 years,Male,Pedal cyclists,Killed,2
+1060,2008,45 - 54 years,Male,Other road users,Injured,77
+1061,2008,45 - 54 years,Male,Other road users,Killed,1
+1062,2008,45 - 54 years,Male,Motor cyclists,Injured,48
+1063,2008,45 - 54 years,Male,Motor cyclists,Killed,0
+1064,2008,45 - 54 years,Male,Car passengers,Injured,41
+1065,2008,45 - 54 years,Male,Car passengers,Killed,1
+1066,2008,45 - 54 years,Male,Car drivers,Injured,194
+1067,2008,45 - 54 years,Male,Car drivers,Killed,4
+1068,2008,45 - 54 years,Female,Pedestrians,Injured,39
+1069,2008,45 - 54 years,Female,Pedestrians,Killed,1
+1070,2008,45 - 54 years,Female,Pedal cyclists,Injured,8
+1071,2008,45 - 54 years,Female,Pedal cyclists,Killed,2
+1072,2008,45 - 54 years,Female,Other road users,Injured,19
+1073,2008,45 - 54 years,Female,Other road users,Killed,0
+1074,2008,45 - 54 years,Female,Motor cyclists,Injured,6
+1075,2008,45 - 54 years,Female,Motor cyclists,Killed,0
+1076,2008,45 - 54 years,Female,Car passengers,Injured,102
+1077,2008,45 - 54 years,Female,Car passengers,Killed,0
+1078,2008,45 - 54 years,Female,Car drivers,Injured,213
+1079,2008,45 - 54 years,Female,Car drivers,Killed,4
+1080,2008,55 - 64 years,Male,Pedestrians,Injured,42
+1081,2008,55 - 64 years,Male,Pedestrians,Killed,2
+1082,2008,55 - 64 years,Male,Pedal cyclists,Injured,18
+1083,2008,55 - 64 years,Male,Pedal cyclists,Killed,2
+1084,2008,55 - 64 years,Male,Other road users,Injured,53
+1085,2008,55 - 64 years,Male,Other road users,Killed,2
+1086,2008,55 - 64 years,Male,Motor cyclists,Injured,10
+1087,2008,55 - 64 years,Male,Motor cyclists,Killed,1
+1088,2008,55 - 64 years,Male,Car passengers,Injured,36
+1089,2008,55 - 64 years,Male,Car passengers,Killed,1
+1090,2008,55 - 64 years,Male,Car drivers,Injured,149
+1091,2008,55 - 64 years,Male,Car drivers,Killed,0
+1092,2008,55 - 64 years,Female,Pedestrians,Injured,42
+1093,2008,55 - 64 years,Female,Pedestrians,Killed,2
+1094,2008,55 - 64 years,Female,Pedal cyclists,Injured,4
+1095,2008,55 - 64 years,Female,Pedal cyclists,Killed,0
+1096,2008,55 - 64 years,Female,Other road users,Injured,9
+1097,2008,55 - 64 years,Female,Other road users,Killed,0
+1098,2008,55 - 64 years,Female,Motor cyclists,Injured,2
+1099,2008,55 - 64 years,Female,Motor cyclists,Killed,0
+1100,2008,55 - 64 years,Female,Car passengers,Injured,95
+1101,2008,55 - 64 years,Female,Car passengers,Killed,0
+1102,2008,55 - 64 years,Female,Car drivers,Injured,105
+1103,2008,55 - 64 years,Female,Car drivers,Killed,3
+1104,2008,65 years and over,Male,Pedestrians,Injured,59
+1105,2008,65 years and over,Male,Pedestrians,Killed,6
+1106,2008,65 years and over,Male,Pedal cyclists,Injured,9
+1107,2008,65 years and over,Male,Pedal cyclists,Killed,2
+1108,2008,65 years and over,Male,Other road users,Injured,21
+1109,2008,65 years and over,Male,Other road users,Killed,6
+1110,2008,65 years and over,Male,Motor cyclists,Injured,5
+1111,2008,65 years and over,Male,Motor cyclists,Killed,0
+1112,2008,65 years and over,Male,Car passengers,Injured,32
+1113,2008,65 years and over,Male,Car passengers,Killed,1
+1114,2008,65 years and over,Male,Car drivers,Injured,164
+1115,2008,65 years and over,Male,Car drivers,Killed,12
+1116,2008,65 years and over,Female,Pedestrians,Injured,86
+1117,2008,65 years and over,Female,Pedestrians,Killed,6
+1118,2008,65 years and over,Female,Pedal cyclists,Injured,5
+1119,2008,65 years and over,Female,Pedal cyclists,Killed,0
+1120,2008,65 years and over,Female,Other road users,Injured,7
+1121,2008,65 years and over,Female,Other road users,Killed,0
+1122,2008,65 years and over,Female,Motor cyclists,Injured,0
+1123,2008,65 years and over,Female,Motor cyclists,Killed,0
+1124,2008,65 years and over,Female,Car passengers,Injured,107
+1125,2008,65 years and over,Female,Car passengers,Killed,6
+1126,2008,65 years and over,Female,Car drivers,Injured,93
+1127,2008,65 years and over,Female,Car drivers,Killed,7
+1128,2008,Age unknown,Male,Pedestrians,Injured,19
+1129,2008,Age unknown,Male,Pedestrians,Killed,0
+1130,2008,Age unknown,Male,Pedal cyclists,Injured,11
+1131,2008,Age unknown,Male,Pedal cyclists,Killed,0
+1132,2008,Age unknown,Male,Other road users,Injured,75
+1133,2008,Age unknown,Male,Other road users,Killed,0
+1134,2008,Age unknown,Male,Motor cyclists,Injured,80
+1135,2008,Age unknown,Male,Motor cyclists,Killed,0
+1136,2008,Age unknown,Male,Car passengers,Injured,31
+1137,2008,Age unknown,Male,Car passengers,Killed,1
+1138,2008,Age unknown,Male,Car drivers,Injured,358
+1139,2008,Age unknown,Male,Car drivers,Killed,0
+1140,2008,Age unknown,Female,Pedestrians,Injured,25
+1141,2008,Age unknown,Female,Pedestrians,Killed,0
+1142,2008,Age unknown,Female,Pedal cyclists,Injured,8
+1143,2008,Age unknown,Female,Pedal cyclists,Killed,0
+1144,2008,Age unknown,Female,Other road users,Injured,8
+1145,2008,Age unknown,Female,Other road users,Killed,0
+1146,2008,Age unknown,Female,Motor cyclists,Injured,3
+1147,2008,Age unknown,Female,Motor cyclists,Killed,0
+1148,2008,Age unknown,Female,Car passengers,Injured,19
+1149,2008,Age unknown,Female,Car passengers,Killed,0
+1150,2008,Age unknown,Female,Car drivers,Injured,293
+1151,2008,Age unknown,Female,Car drivers,Killed,0
+1152,2009,00 - 05 years,Male,Pedestrians,Injured,35
+1153,2009,00 - 05 years,Male,Pedestrians,Killed,3
+1154,2009,00 - 05 years,Male,Pedal cyclists,Injured,2
+1155,2009,00 - 05 years,Male,Pedal cyclists,Killed,0
+1156,2009,00 - 05 years,Male,Other road users,Injured,2
+1157,2009,00 - 05 years,Male,Other road users,Killed,0
+1158,2009,00 - 05 years,Male,Motor cyclists,Injured,0
+1159,2009,00 - 05 years,Male,Motor cyclists,Killed,0
+1160,2009,00 - 05 years,Male,Car passengers,Injured,85
+1161,2009,00 - 05 years,Male,Car passengers,Killed,2
+1162,2009,00 - 05 years,Male,Car drivers,Injured,0
+1163,2009,00 - 05 years,Male,Car drivers,Killed,0
+1164,2009,00 - 05 years,Female,Pedestrians,Injured,23
+1165,2009,00 - 05 years,Female,Pedestrians,Killed,1
+1166,2009,00 - 05 years,Female,Pedal cyclists,Injured,1
+1167,2009,00 - 05 years,Female,Pedal cyclists,Killed,0
+1168,2009,00 - 05 years,Female,Other road users,Injured,1
+1169,2009,00 - 05 years,Female,Other road users,Killed,0
+1170,2009,00 - 05 years,Female,Motor cyclists,Injured,0
+1171,2009,00 - 05 years,Female,Motor cyclists,Killed,0
+1172,2009,00 - 05 years,Female,Car passengers,Injured,99
+1173,2009,00 - 05 years,Female,Car passengers,Killed,1
+1174,2009,00 - 05 years,Female,Car drivers,Injured,0
+1175,2009,00 - 05 years,Female,Car drivers,Killed,0
+1176,2009,06 - 09 years,Male,Pedestrians,Injured,48
+1177,2009,06 - 09 years,Male,Pedestrians,Killed,1
+1178,2009,06 - 09 years,Male,Pedal cyclists,Injured,4
+1179,2009,06 - 09 years,Male,Pedal cyclists,Killed,0
+1180,2009,06 - 09 years,Male,Other road users,Injured,3
+1181,2009,06 - 09 years,Male,Other road users,Killed,0
+1182,2009,06 - 09 years,Male,Motor cyclists,Injured,1
+1183,2009,06 - 09 years,Male,Motor cyclists,Killed,0
+1184,2009,06 - 09 years,Male,Car passengers,Injured,71
+1185,2009,06 - 09 years,Male,Car passengers,Killed,0
+1186,2009,06 - 09 years,Male,Car drivers,Injured,0
+1187,2009,06 - 09 years,Male,Car drivers,Killed,0
+1188,2009,06 - 09 years,Female,Pedestrians,Injured,28
+1189,2009,06 - 09 years,Female,Pedestrians,Killed,0
+1190,2009,06 - 09 years,Female,Pedal cyclists,Injured,5
+1191,2009,06 - 09 years,Female,Pedal cyclists,Killed,0
+1192,2009,06 - 09 years,Female,Other road users,Injured,5
+1193,2009,06 - 09 years,Female,Other road users,Killed,0
+1194,2009,06 - 09 years,Female,Motor cyclists,Injured,0
+1195,2009,06 - 09 years,Female,Motor cyclists,Killed,0
+1196,2009,06 - 09 years,Female,Car passengers,Injured,65
+1197,2009,06 - 09 years,Female,Car passengers,Killed,0
+1198,2009,06 - 09 years,Female,Car drivers,Injured,0
+1199,2009,06 - 09 years,Female,Car drivers,Killed,0
+1200,2009,10 - 14 years,Male,Pedestrians,Injured,58
+1201,2009,10 - 14 years,Male,Pedestrians,Killed,0
+1202,2009,10 - 14 years,Male,Pedal cyclists,Injured,29
+1203,2009,10 - 14 years,Male,Pedal cyclists,Killed,2
+1204,2009,10 - 14 years,Male,Other road users,Injured,11
+1205,2009,10 - 14 years,Male,Other road users,Killed,0
+1206,2009,10 - 14 years,Male,Motor cyclists,Injured,2
+1207,2009,10 - 14 years,Male,Motor cyclists,Killed,0
+1208,2009,10 - 14 years,Male,Car passengers,Injured,75
+1209,2009,10 - 14 years,Male,Car passengers,Killed,0
+1210,2009,10 - 14 years,Male,Car drivers,Injured,3
+1211,2009,10 - 14 years,Male,Car drivers,Killed,0
+1212,2009,10 - 14 years,Female,Pedestrians,Injured,43
+1213,2009,10 - 14 years,Female,Pedestrians,Killed,2
+1214,2009,10 - 14 years,Female,Pedal cyclists,Injured,5
+1215,2009,10 - 14 years,Female,Pedal cyclists,Killed,0
+1216,2009,10 - 14 years,Female,Other road users,Injured,4
+1217,2009,10 - 14 years,Female,Other road users,Killed,0
+1218,2009,10 - 14 years,Female,Motor cyclists,Injured,0
+1219,2009,10 - 14 years,Female,Motor cyclists,Killed,0
+1220,2009,10 - 14 years,Female,Car passengers,Injured,93
+1221,2009,10 - 14 years,Female,Car passengers,Killed,0
+1222,2009,10 - 14 years,Female,Car drivers,Injured,1
+1223,2009,10 - 14 years,Female,Car drivers,Killed,0
+1224,2009,15 - 17 years,Male,Pedestrians,Injured,26
+1225,2009,15 - 17 years,Male,Pedestrians,Killed,0
+1226,2009,15 - 17 years,Male,Pedal cyclists,Injured,24
+1227,2009,15 - 17 years,Male,Pedal cyclists,Killed,2
+1228,2009,15 - 17 years,Male,Other road users,Injured,18
+1229,2009,15 - 17 years,Male,Other road users,Killed,0
+1230,2009,15 - 17 years,Male,Motor cyclists,Injured,18
+1231,2009,15 - 17 years,Male,Motor cyclists,Killed,0
+1232,2009,15 - 17 years,Male,Car passengers,Injured,116
+1233,2009,15 - 17 years,Male,Car passengers,Killed,6
+1234,2009,15 - 17 years,Male,Car drivers,Injured,51
+1235,2009,15 - 17 years,Male,Car drivers,Killed,1
+1236,2009,15 - 17 years,Female,Pedestrians,Injured,43
+1237,2009,15 - 17 years,Female,Pedestrians,Killed,0
+1238,2009,15 - 17 years,Female,Pedal cyclists,Injured,2
+1239,2009,15 - 17 years,Female,Pedal cyclists,Killed,0
+1240,2009,15 - 17 years,Female,Other road users,Injured,1
+1241,2009,15 - 17 years,Female,Other road users,Killed,0
+1242,2009,15 - 17 years,Female,Motor cyclists,Injured,4
+1243,2009,15 - 17 years,Female,Motor cyclists,Killed,0
+1244,2009,15 - 17 years,Female,Car passengers,Injured,103
+1245,2009,15 - 17 years,Female,Car passengers,Killed,0
+1246,2009,15 - 17 years,Female,Car drivers,Injured,18
+1247,2009,15 - 17 years,Female,Car drivers,Killed,0
+1248,2009,18 - 20 years,Male,Pedestrians,Injured,40
+1249,2009,18 - 20 years,Male,Pedestrians,Killed,2
+1250,2009,18 - 20 years,Male,Pedal cyclists,Injured,11
+1251,2009,18 - 20 years,Male,Pedal cyclists,Killed,0
+1252,2009,18 - 20 years,Male,Other road users,Injured,44
+1253,2009,18 - 20 years,Male,Other road users,Killed,2
+1254,2009,18 - 20 years,Male,Motor cyclists,Injured,19
+1255,2009,18 - 20 years,Male,Motor cyclists,Killed,1
+1256,2009,18 - 20 years,Male,Car passengers,Injured,234
+1257,2009,18 - 20 years,Male,Car passengers,Killed,4
+1258,2009,18 - 20 years,Male,Car drivers,Injured,258
+1259,2009,18 - 20 years,Male,Car drivers,Killed,14
+1260,2009,18 - 20 years,Female,Pedestrians,Injured,34
+1261,2009,18 - 20 years,Female,Pedestrians,Killed,0
+1262,2009,18 - 20 years,Female,Pedal cyclists,Injured,1
+1263,2009,18 - 20 years,Female,Pedal cyclists,Killed,0
+1264,2009,18 - 20 years,Female,Other road users,Injured,10
+1265,2009,18 - 20 years,Female,Other road users,Killed,0
+1266,2009,18 - 20 years,Female,Motor cyclists,Injured,2
+1267,2009,18 - 20 years,Female,Motor cyclists,Killed,0
+1268,2009,18 - 20 years,Female,Car passengers,Injured,168
+1269,2009,18 - 20 years,Female,Car passengers,Killed,5
+1270,2009,18 - 20 years,Female,Car drivers,Injured,161
+1271,2009,18 - 20 years,Female,Car drivers,Killed,3
+1272,2009,21 - 24 years,Male,Pedestrians,Injured,57
+1273,2009,21 - 24 years,Male,Pedestrians,Killed,2
+1274,2009,21 - 24 years,Male,Pedal cyclists,Injured,20
+1275,2009,21 - 24 years,Male,Pedal cyclists,Killed,0
+1276,2009,21 - 24 years,Male,Other road users,Injured,61
+1277,2009,21 - 24 years,Male,Other road users,Killed,1
+1278,2009,21 - 24 years,Male,Motor cyclists,Injured,48
+1279,2009,21 - 24 years,Male,Motor cyclists,Killed,4
+1280,2009,21 - 24 years,Male,Car passengers,Injured,196
+1281,2009,21 - 24 years,Male,Car passengers,Killed,8
+1282,2009,21 - 24 years,Male,Car drivers,Injured,255
+1283,2009,21 - 24 years,Male,Car drivers,Killed,15
+1284,2009,21 - 24 years,Female,Pedestrians,Injured,27
+1285,2009,21 - 24 years,Female,Pedestrians,Killed,0
+1286,2009,21 - 24 years,Female,Pedal cyclists,Injured,8
+1287,2009,21 - 24 years,Female,Pedal cyclists,Killed,0
+1288,2009,21 - 24 years,Female,Other road users,Injured,16
+1289,2009,21 - 24 years,Female,Other road users,Killed,0
+1290,2009,21 - 24 years,Female,Motor cyclists,Injured,3
+1291,2009,21 - 24 years,Female,Motor cyclists,Killed,0
+1292,2009,21 - 24 years,Female,Car passengers,Injured,171
+1293,2009,21 - 24 years,Female,Car passengers,Killed,0
+1294,2009,21 - 24 years,Female,Car drivers,Injured,228
+1295,2009,21 - 24 years,Female,Car drivers,Killed,3
+1296,2009,25 - 34 years,Male,Pedestrians,Injured,82
+1297,2009,25 - 34 years,Male,Pedestrians,Killed,3
+1298,2009,25 - 34 years,Male,Pedal cyclists,Injured,61
+1299,2009,25 - 34 years,Male,Pedal cyclists,Killed,1
+1300,2009,25 - 34 years,Male,Other road users,Injured,123
+1301,2009,25 - 34 years,Male,Other road users,Killed,6
+1302,2009,25 - 34 years,Male,Motor cyclists,Injured,127
+1303,2009,25 - 34 years,Male,Motor cyclists,Killed,9
+1304,2009,25 - 34 years,Male,Car passengers,Injured,252
+1305,2009,25 - 34 years,Male,Car passengers,Killed,5
+1306,2009,25 - 34 years,Male,Car drivers,Injured,562
+1307,2009,25 - 34 years,Male,Car drivers,Killed,17
+1308,2009,25 - 34 years,Female,Pedestrians,Injured,72
+1309,2009,25 - 34 years,Female,Pedestrians,Killed,2
+1310,2009,25 - 34 years,Female,Pedal cyclists,Injured,30
+1311,2009,25 - 34 years,Female,Pedal cyclists,Killed,0
+1312,2009,25 - 34 years,Female,Other road users,Injured,20
+1313,2009,25 - 34 years,Female,Other road users,Killed,0
+1314,2009,25 - 34 years,Female,Motor cyclists,Injured,6
+1315,2009,25 - 34 years,Female,Motor cyclists,Killed,0
+1316,2009,25 - 34 years,Female,Car passengers,Injured,206
+1317,2009,25 - 34 years,Female,Car passengers,Killed,1
+1318,2009,25 - 34 years,Female,Car drivers,Injured,538
+1319,2009,25 - 34 years,Female,Car drivers,Killed,8
+1320,2009,35 - 44 years,Male,Pedestrians,Injured,55
+1321,2009,35 - 44 years,Male,Pedestrians,Killed,2
+1322,2009,35 - 44 years,Male,Pedal cyclists,Injured,53
+1323,2009,35 - 44 years,Male,Pedal cyclists,Killed,0
+1324,2009,35 - 44 years,Male,Other road users,Injured,140
+1325,2009,35 - 44 years,Male,Other road users,Killed,4
+1326,2009,35 - 44 years,Male,Motor cyclists,Injured,92
+1327,2009,35 - 44 years,Male,Motor cyclists,Killed,8
+1328,2009,35 - 44 years,Male,Car passengers,Injured,91
+1329,2009,35 - 44 years,Male,Car passengers,Killed,2
+1330,2009,35 - 44 years,Male,Car drivers,Injured,381
+1331,2009,35 - 44 years,Male,Car drivers,Killed,14
+1332,2009,35 - 44 years,Female,Pedestrians,Injured,35
+1333,2009,35 - 44 years,Female,Pedestrians,Killed,1
+1334,2009,35 - 44 years,Female,Pedal cyclists,Injured,14
+1335,2009,35 - 44 years,Female,Pedal cyclists,Killed,0
+1336,2009,35 - 44 years,Female,Other road users,Injured,16
+1337,2009,35 - 44 years,Female,Other road users,Killed,1
+1338,2009,35 - 44 years,Female,Motor cyclists,Injured,6
+1339,2009,35 - 44 years,Female,Motor cyclists,Killed,0
+1340,2009,35 - 44 years,Female,Car passengers,Injured,149
+1341,2009,35 - 44 years,Female,Car passengers,Killed,0
+1342,2009,35 - 44 years,Female,Car drivers,Injured,374
+1343,2009,35 - 44 years,Female,Car drivers,Killed,2
+1344,2009,45 - 54 years,Male,Pedestrians,Injured,66
+1345,2009,45 - 54 years,Male,Pedestrians,Killed,3
+1346,2009,45 - 54 years,Male,Pedal cyclists,Injured,35
+1347,2009,45 - 54 years,Male,Pedal cyclists,Killed,1
+1348,2009,45 - 54 years,Male,Other road users,Injured,70
+1349,2009,45 - 54 years,Male,Other road users,Killed,2
+1350,2009,45 - 54 years,Male,Motor cyclists,Injured,49
+1351,2009,45 - 54 years,Male,Motor cyclists,Killed,0
+1352,2009,45 - 54 years,Male,Car passengers,Injured,61
+1353,2009,45 - 54 years,Male,Car passengers,Killed,2
+1354,2009,45 - 54 years,Male,Car drivers,Injured,227
+1355,2009,45 - 54 years,Male,Car drivers,Killed,2
+1356,2009,45 - 54 years,Female,Pedestrians,Injured,34
+1357,2009,45 - 54 years,Female,Pedestrians,Killed,1
+1358,2009,45 - 54 years,Female,Pedal cyclists,Injured,3
+1359,2009,45 - 54 years,Female,Pedal cyclists,Killed,0
+1360,2009,45 - 54 years,Female,Other road users,Injured,20
+1361,2009,45 - 54 years,Female,Other road users,Killed,0
+1362,2009,45 - 54 years,Female,Motor cyclists,Injured,6
+1363,2009,45 - 54 years,Female,Motor cyclists,Killed,0
+1364,2009,45 - 54 years,Female,Car passengers,Injured,115
+1365,2009,45 - 54 years,Female,Car passengers,Killed,0
+1366,2009,45 - 54 years,Female,Car drivers,Injured,259
+1367,2009,45 - 54 years,Female,Car drivers,Killed,8
+1368,2009,55 - 64 years,Male,Pedestrians,Injured,48
+1369,2009,55 - 64 years,Male,Pedestrians,Killed,7
+1370,2009,55 - 64 years,Male,Pedal cyclists,Injured,23
+1371,2009,55 - 64 years,Male,Pedal cyclists,Killed,0
+1372,2009,55 - 64 years,Male,Other road users,Injured,41
+1373,2009,55 - 64 years,Male,Other road users,Killed,2
+1374,2009,55 - 64 years,Male,Motor cyclists,Injured,13
+1375,2009,55 - 64 years,Male,Motor cyclists,Killed,2
+1376,2009,55 - 64 years,Male,Car passengers,Injured,35
+1377,2009,55 - 64 years,Male,Car passengers,Killed,1
+1378,2009,55 - 64 years,Male,Car drivers,Injured,161
+1379,2009,55 - 64 years,Male,Car drivers,Killed,5
+1380,2009,55 - 64 years,Female,Pedestrians,Injured,33
+1381,2009,55 - 64 years,Female,Pedestrians,Killed,0
+1382,2009,55 - 64 years,Female,Pedal cyclists,Injured,7
+1383,2009,55 - 64 years,Female,Pedal cyclists,Killed,0
+1384,2009,55 - 64 years,Female,Other road users,Injured,13
+1385,2009,55 - 64 years,Female,Other road users,Killed,1
+1386,2009,55 - 64 years,Female,Motor cyclists,Injured,2
+1387,2009,55 - 64 years,Female,Motor cyclists,Killed,0
+1388,2009,55 - 64 years,Female,Car passengers,Injured,89
+1389,2009,55 - 64 years,Female,Car passengers,Killed,1
+1390,2009,55 - 64 years,Female,Car drivers,Injured,145
+1391,2009,55 - 64 years,Female,Car drivers,Killed,3
+1392,2009,65 years and over,Male,Pedestrians,Injured,64
+1393,2009,65 years and over,Male,Pedestrians,Killed,3
+1394,2009,65 years and over,Male,Pedal cyclists,Injured,9
+1395,2009,65 years and over,Male,Pedal cyclists,Killed,1
+1396,2009,65 years and over,Male,Other road users,Injured,27
+1397,2009,65 years and over,Male,Other road users,Killed,1
+1398,2009,65 years and over,Male,Motor cyclists,Injured,5
+1399,2009,65 years and over,Male,Motor cyclists,Killed,1
+1400,2009,65 years and over,Male,Car passengers,Injured,31
+1401,2009,65 years and over,Male,Car passengers,Killed,0
+1402,2009,65 years and over,Male,Car drivers,Injured,168
+1403,2009,65 years and over,Male,Car drivers,Killed,8
+1404,2009,65 years and over,Female,Pedestrians,Injured,73
+1405,2009,65 years and over,Female,Pedestrians,Killed,7
+1406,2009,65 years and over,Female,Pedal cyclists,Injured,1
+1407,2009,65 years and over,Female,Pedal cyclists,Killed,0
+1408,2009,65 years and over,Female,Other road users,Injured,8
+1409,2009,65 years and over,Female,Other road users,Killed,0
+1410,2009,65 years and over,Female,Motor cyclists,Injured,0
+1411,2009,65 years and over,Female,Motor cyclists,Killed,0
+1412,2009,65 years and over,Female,Car passengers,Injured,103
+1413,2009,65 years and over,Female,Car passengers,Killed,1
+1414,2009,65 years and over,Female,Car drivers,Injured,128
+1415,2009,65 years and over,Female,Car drivers,Killed,4
+1416,2009,Age unknown,Male,Pedestrians,Injured,13
+1417,2009,Age unknown,Male,Pedestrians,Killed,0
+1418,2009,Age unknown,Male,Pedal cyclists,Injured,6
+1419,2009,Age unknown,Male,Pedal cyclists,Killed,0
+1420,2009,Age unknown,Male,Other road users,Injured,22
+1421,2009,Age unknown,Male,Other road users,Killed,0
+1422,2009,Age unknown,Male,Motor cyclists,Injured,17
+1423,2009,Age unknown,Male,Motor cyclists,Killed,0
+1424,2009,Age unknown,Male,Car passengers,Injured,18
+1425,2009,Age unknown,Male,Car passengers,Killed,0
+1426,2009,Age unknown,Male,Car drivers,Injured,89
+1427,2009,Age unknown,Male,Car drivers,Killed,0
+1428,2009,Age unknown,Female,Pedestrians,Injured,16
+1429,2009,Age unknown,Female,Pedestrians,Killed,0
+1430,2009,Age unknown,Female,Pedal cyclists,Injured,0
+1431,2009,Age unknown,Female,Pedal cyclists,Killed,0
+1432,2009,Age unknown,Female,Other road users,Injured,1
+1433,2009,Age unknown,Female,Other road users,Killed,0
+1434,2009,Age unknown,Female,Motor cyclists,Injured,0
+1435,2009,Age unknown,Female,Motor cyclists,Killed,0
+1436,2009,Age unknown,Female,Car passengers,Injured,10
+1437,2009,Age unknown,Female,Car passengers,Killed,0
+1438,2009,Age unknown,Female,Car drivers,Injured,57
+1439,2009,Age unknown,Female,Car drivers,Killed,0
+1440,2010,00 - 05 years,Male,Pedestrians,Injured,41
+1441,2010,00 - 05 years,Male,Pedestrians,Killed,3
+1442,2010,00 - 05 years,Male,Pedal cyclists,Injured,5
+1443,2010,00 - 05 years,Male,Pedal cyclists,Killed,0
+1444,2010,00 - 05 years,Male,Other road users,Injured,7
+1445,2010,00 - 05 years,Male,Other road users,Killed,0
+1446,2010,00 - 05 years,Male,Motor cyclists,Injured,0
+1447,2010,00 - 05 years,Male,Motor cyclists,Killed,0
+1448,2010,00 - 05 years,Male,Car passengers,Injured,68
+1449,2010,00 - 05 years,Male,Car passengers,Killed,0
+1450,2010,00 - 05 years,Male,Car drivers,Injured,0
+1451,2010,00 - 05 years,Male,Car drivers,Killed,0
+1452,2010,00 - 05 years,Female,Pedestrians,Injured,29
+1453,2010,00 - 05 years,Female,Pedestrians,Killed,0
+1454,2010,00 - 05 years,Female,Pedal cyclists,Injured,3
+1455,2010,00 - 05 years,Female,Pedal cyclists,Killed,0
+1456,2010,00 - 05 years,Female,Other road users,Injured,2
+1457,2010,00 - 05 years,Female,Other road users,Killed,0
+1458,2010,00 - 05 years,Female,Motor cyclists,Injured,0
+1459,2010,00 - 05 years,Female,Motor cyclists,Killed,0
+1460,2010,00 - 05 years,Female,Car passengers,Injured,75
+1461,2010,00 - 05 years,Female,Car passengers,Killed,0
+1462,2010,00 - 05 years,Female,Car drivers,Injured,0
+1463,2010,00 - 05 years,Female,Car drivers,Killed,0
+1464,2010,06 - 09 years,Male,Pedestrians,Injured,48
+1465,2010,06 - 09 years,Male,Pedestrians,Killed,0
+1466,2010,06 - 09 years,Male,Pedal cyclists,Injured,9
+1467,2010,06 - 09 years,Male,Pedal cyclists,Killed,0
+1468,2010,06 - 09 years,Male,Other road users,Injured,4
+1469,2010,06 - 09 years,Male,Other road users,Killed,0
+1470,2010,06 - 09 years,Male,Motor cyclists,Injured,0
+1471,2010,06 - 09 years,Male,Motor cyclists,Killed,0
+1472,2010,06 - 09 years,Male,Car passengers,Injured,46
+1473,2010,06 - 09 years,Male,Car passengers,Killed,2
+1474,2010,06 - 09 years,Male,Car drivers,Injured,0
+1475,2010,06 - 09 years,Male,Car drivers,Killed,0
+1476,2010,06 - 09 years,Female,Pedestrians,Injured,29
+1477,2010,06 - 09 years,Female,Pedestrians,Killed,0
+1478,2010,06 - 09 years,Female,Pedal cyclists,Injured,1
+1479,2010,06 - 09 years,Female,Pedal cyclists,Killed,0
+1480,2010,06 - 09 years,Female,Other road users,Injured,1
+1481,2010,06 - 09 years,Female,Other road users,Killed,0
+1482,2010,06 - 09 years,Female,Motor cyclists,Injured,0
+1483,2010,06 - 09 years,Female,Motor cyclists,Killed,0
+1484,2010,06 - 09 years,Female,Car passengers,Injured,51
+1485,2010,06 - 09 years,Female,Car passengers,Killed,0
+1486,2010,06 - 09 years,Female,Car drivers,Injured,0
+1487,2010,06 - 09 years,Female,Car drivers,Killed,0
+1488,2010,10 - 14 years,Male,Pedestrians,Injured,53
+1489,2010,10 - 14 years,Male,Pedestrians,Killed,0
+1490,2010,10 - 14 years,Male,Pedal cyclists,Injured,28
+1491,2010,10 - 14 years,Male,Pedal cyclists,Killed,0
+1492,2010,10 - 14 years,Male,Other road users,Injured,5
+1493,2010,10 - 14 years,Male,Other road users,Killed,0
+1494,2010,10 - 14 years,Male,Motor cyclists,Injured,3
+1495,2010,10 - 14 years,Male,Motor cyclists,Killed,0
+1496,2010,10 - 14 years,Male,Car passengers,Injured,69
+1497,2010,10 - 14 years,Male,Car passengers,Killed,0
+1498,2010,10 - 14 years,Male,Car drivers,Injured,1
+1499,2010,10 - 14 years,Male,Car drivers,Killed,0
+1500,2010,10 - 14 years,Female,Pedestrians,Injured,39
+1501,2010,10 - 14 years,Female,Pedestrians,Killed,1
+1502,2010,10 - 14 years,Female,Pedal cyclists,Injured,7
+1503,2010,10 - 14 years,Female,Pedal cyclists,Killed,0
+1504,2010,10 - 14 years,Female,Other road users,Injured,3
+1505,2010,10 - 14 years,Female,Other road users,Killed,0
+1506,2010,10 - 14 years,Female,Motor cyclists,Injured,0
+1507,2010,10 - 14 years,Female,Motor cyclists,Killed,0
+1508,2010,10 - 14 years,Female,Car passengers,Injured,71
+1509,2010,10 - 14 years,Female,Car passengers,Killed,0
+1510,2010,10 - 14 years,Female,Car drivers,Injured,0
+1511,2010,10 - 14 years,Female,Car drivers,Killed,0
+1512,2010,15 - 17 years,Male,Pedestrians,Injured,26
+1513,2010,15 - 17 years,Male,Pedestrians,Killed,0
+1514,2010,15 - 17 years,Male,Pedal cyclists,Injured,14
+1515,2010,15 - 17 years,Male,Pedal cyclists,Killed,0
+1516,2010,15 - 17 years,Male,Other road users,Injured,31
+1517,2010,15 - 17 years,Male,Other road users,Killed,0
+1518,2010,15 - 17 years,Male,Motor cyclists,Injured,16
+1519,2010,15 - 17 years,Male,Motor cyclists,Killed,0
+1520,2010,15 - 17 years,Male,Car passengers,Injured,90
+1521,2010,15 - 17 years,Male,Car passengers,Killed,2
+1522,2010,15 - 17 years,Male,Car drivers,Injured,45
+1523,2010,15 - 17 years,Male,Car drivers,Killed,2
+1524,2010,15 - 17 years,Female,Pedestrians,Injured,31
+1525,2010,15 - 17 years,Female,Pedestrians,Killed,0
+1526,2010,15 - 17 years,Female,Pedal cyclists,Injured,3
+1527,2010,15 - 17 years,Female,Pedal cyclists,Killed,0
+1528,2010,15 - 17 years,Female,Other road users,Injured,7
+1529,2010,15 - 17 years,Female,Other road users,Killed,0
+1530,2010,15 - 17 years,Female,Motor cyclists,Injured,1
+1531,2010,15 - 17 years,Female,Motor cyclists,Killed,0
+1532,2010,15 - 17 years,Female,Car passengers,Injured,83
+1533,2010,15 - 17 years,Female,Car passengers,Killed,3
+1534,2010,15 - 17 years,Female,Car drivers,Injured,20
+1535,2010,15 - 17 years,Female,Car drivers,Killed,0
+1536,2010,18 - 20 years,Male,Pedestrians,Injured,32
+1537,2010,18 - 20 years,Male,Pedestrians,Killed,0
+1538,2010,18 - 20 years,Male,Pedal cyclists,Injured,6
+1539,2010,18 - 20 years,Male,Pedal cyclists,Killed,0
+1540,2010,18 - 20 years,Male,Other road users,Injured,47
+1541,2010,18 - 20 years,Male,Other road users,Killed,1
+1542,2010,18 - 20 years,Male,Motor cyclists,Injured,22
+1543,2010,18 - 20 years,Male,Motor cyclists,Killed,2
+1544,2010,18 - 20 years,Male,Car passengers,Injured,179
+1545,2010,18 - 20 years,Male,Car passengers,Killed,8
+1546,2010,18 - 20 years,Male,Car drivers,Injured,197
+1547,2010,18 - 20 years,Male,Car drivers,Killed,6
+1548,2010,18 - 20 years,Female,Pedestrians,Injured,29
+1549,2010,18 - 20 years,Female,Pedestrians,Killed,0
+1550,2010,18 - 20 years,Female,Pedal cyclists,Injured,5
+1551,2010,18 - 20 years,Female,Pedal cyclists,Killed,0
+1552,2010,18 - 20 years,Female,Other road users,Injured,13
+1553,2010,18 - 20 years,Female,Other road users,Killed,0
+1554,2010,18 - 20 years,Female,Motor cyclists,Injured,2
+1555,2010,18 - 20 years,Female,Motor cyclists,Killed,0
+1556,2010,18 - 20 years,Female,Car passengers,Injured,153
+1557,2010,18 - 20 years,Female,Car passengers,Killed,2
+1558,2010,18 - 20 years,Female,Car drivers,Injured,137
+1559,2010,18 - 20 years,Female,Car drivers,Killed,2
+1560,2010,21 - 24 years,Male,Pedestrians,Injured,39
+1561,2010,21 - 24 years,Male,Pedestrians,Killed,5
+1562,2010,21 - 24 years,Male,Pedal cyclists,Injured,14
+1563,2010,21 - 24 years,Male,Pedal cyclists,Killed,0
+1564,2010,21 - 24 years,Male,Other road users,Injured,52
+1565,2010,21 - 24 years,Male,Other road users,Killed,1
+1566,2010,21 - 24 years,Male,Motor cyclists,Injured,47
+1567,2010,21 - 24 years,Male,Motor cyclists,Killed,4
+1568,2010,21 - 24 years,Male,Car passengers,Injured,140
+1569,2010,21 - 24 years,Male,Car passengers,Killed,9
+1570,2010,21 - 24 years,Male,Car drivers,Injured,195
+1571,2010,21 - 24 years,Male,Car drivers,Killed,10
+1572,2010,21 - 24 years,Female,Pedestrians,Injured,25
+1573,2010,21 - 24 years,Female,Pedestrians,Killed,1
+1574,2010,21 - 24 years,Female,Pedal cyclists,Injured,3
+1575,2010,21 - 24 years,Female,Pedal cyclists,Killed,0
+1576,2010,21 - 24 years,Female,Other road users,Injured,16
+1577,2010,21 - 24 years,Female,Other road users,Killed,0
+1578,2010,21 - 24 years,Female,Motor cyclists,Injured,3
+1579,2010,21 - 24 years,Female,Motor cyclists,Killed,0
+1580,2010,21 - 24 years,Female,Car passengers,Injured,117
+1581,2010,21 - 24 years,Female,Car passengers,Killed,2
+1582,2010,21 - 24 years,Female,Car drivers,Injured,186
+1583,2010,21 - 24 years,Female,Car drivers,Killed,2
+1584,2010,25 - 34 years,Male,Pedestrians,Injured,84
+1585,2010,25 - 34 years,Male,Pedestrians,Killed,3
+1586,2010,25 - 34 years,Male,Pedal cyclists,Injured,68
+1587,2010,25 - 34 years,Male,Pedal cyclists,Killed,0
+1588,2010,25 - 34 years,Male,Other road users,Injured,148
+1589,2010,25 - 34 years,Male,Other road users,Killed,5
+1590,2010,25 - 34 years,Male,Motor cyclists,Injured,124
+1591,2010,25 - 34 years,Male,Motor cyclists,Killed,6
+1592,2010,25 - 34 years,Male,Car passengers,Injured,200
+1593,2010,25 - 34 years,Male,Car passengers,Killed,8
+1594,2010,25 - 34 years,Male,Car drivers,Injured,443
+1595,2010,25 - 34 years,Male,Car drivers,Killed,19
+1596,2010,25 - 34 years,Female,Pedestrians,Injured,46
+1597,2010,25 - 34 years,Female,Pedestrians,Killed,0
+1598,2010,25 - 34 years,Female,Pedal cyclists,Injured,39
+1599,2010,25 - 34 years,Female,Pedal cyclists,Killed,0
+1600,2010,25 - 34 years,Female,Other road users,Injured,27
+1601,2010,25 - 34 years,Female,Other road users,Killed,0
+1602,2010,25 - 34 years,Female,Motor cyclists,Injured,11
+1603,2010,25 - 34 years,Female,Motor cyclists,Killed,1
+1604,2010,25 - 34 years,Female,Car passengers,Injured,215
+1605,2010,25 - 34 years,Female,Car passengers,Killed,2
+1606,2010,25 - 34 years,Female,Car drivers,Injured,451
+1607,2010,25 - 34 years,Female,Car drivers,Killed,4
+1608,2010,35 - 44 years,Male,Pedestrians,Injured,55
+1609,2010,35 - 44 years,Male,Pedestrians,Killed,6
+1610,2010,35 - 44 years,Male,Pedal cyclists,Injured,54
+1611,2010,35 - 44 years,Male,Pedal cyclists,Killed,0
+1612,2010,35 - 44 years,Male,Other road users,Injured,123
+1613,2010,35 - 44 years,Male,Other road users,Killed,3
+1614,2010,35 - 44 years,Male,Motor cyclists,Injured,63
+1615,2010,35 - 44 years,Male,Motor cyclists,Killed,4
+1616,2010,35 - 44 years,Male,Car passengers,Injured,90
+1617,2010,35 - 44 years,Male,Car passengers,Killed,2
+1618,2010,35 - 44 years,Male,Car drivers,Injured,308
+1619,2010,35 - 44 years,Male,Car drivers,Killed,6
+1620,2010,35 - 44 years,Female,Pedestrians,Injured,35
+1621,2010,35 - 44 years,Female,Pedestrians,Killed,1
+1622,2010,35 - 44 years,Female,Pedal cyclists,Injured,18
+1623,2010,35 - 44 years,Female,Pedal cyclists,Killed,0
+1624,2010,35 - 44 years,Female,Other road users,Injured,21
+1625,2010,35 - 44 years,Female,Other road users,Killed,0
+1626,2010,35 - 44 years,Female,Motor cyclists,Injured,6
+1627,2010,35 - 44 years,Female,Motor cyclists,Killed,0
+1628,2010,35 - 44 years,Female,Car passengers,Injured,94
+1629,2010,35 - 44 years,Female,Car passengers,Killed,2
+1630,2010,35 - 44 years,Female,Car drivers,Injured,364
+1631,2010,35 - 44 years,Female,Car drivers,Killed,2
+1632,2010,45 - 54 years,Male,Pedestrians,Injured,40
+1633,2010,45 - 54 years,Male,Pedestrians,Killed,6
+1634,2010,45 - 54 years,Male,Pedal cyclists,Injured,42
+1635,2010,45 - 54 years,Male,Pedal cyclists,Killed,1
+1636,2010,45 - 54 years,Male,Other road users,Injured,71
+1637,2010,45 - 54 years,Male,Other road users,Killed,1
+1638,2010,45 - 54 years,Male,Motor cyclists,Injured,42
+1639,2010,45 - 54 years,Male,Motor cyclists,Killed,0
+1640,2010,45 - 54 years,Male,Car passengers,Injured,55
+1641,2010,45 - 54 years,Male,Car passengers,Killed,2
+1642,2010,45 - 54 years,Male,Car drivers,Injured,200
+1643,2010,45 - 54 years,Male,Car drivers,Killed,2
+1644,2010,45 - 54 years,Female,Pedestrians,Injured,29
+1645,2010,45 - 54 years,Female,Pedestrians,Killed,1
+1646,2010,45 - 54 years,Female,Pedal cyclists,Injured,9
+1647,2010,45 - 54 years,Female,Pedal cyclists,Killed,0
+1648,2010,45 - 54 years,Female,Other road users,Injured,16
+1649,2010,45 - 54 years,Female,Other road users,Killed,1
+1650,2010,45 - 54 years,Female,Motor cyclists,Injured,4
+1651,2010,45 - 54 years,Female,Motor cyclists,Killed,0
+1652,2010,45 - 54 years,Female,Car passengers,Injured,103
+1653,2010,45 - 54 years,Female,Car passengers,Killed,0
+1654,2010,45 - 54 years,Female,Car drivers,Injured,224
+1655,2010,45 - 54 years,Female,Car drivers,Killed,4
+1656,2010,55 - 64 years,Male,Pedestrians,Injured,44
+1657,2010,55 - 64 years,Male,Pedestrians,Killed,3
+1658,2010,55 - 64 years,Male,Pedal cyclists,Injured,26
+1659,2010,55 - 64 years,Male,Pedal cyclists,Killed,0
+1660,2010,55 - 64 years,Male,Other road users,Injured,46
+1661,2010,55 - 64 years,Male,Other road users,Killed,4
+1662,2010,55 - 64 years,Male,Motor cyclists,Injured,20
+1663,2010,55 - 64 years,Male,Motor cyclists,Killed,0
+1664,2010,55 - 64 years,Male,Car passengers,Injured,33
+1665,2010,55 - 64 years,Male,Car passengers,Killed,0
+1666,2010,55 - 64 years,Male,Car drivers,Injured,132
+1667,2010,55 - 64 years,Male,Car drivers,Killed,3
+1668,2010,55 - 64 years,Female,Pedestrians,Injured,44
+1669,2010,55 - 64 years,Female,Pedestrians,Killed,4
+1670,2010,55 - 64 years,Female,Pedal cyclists,Injured,6
+1671,2010,55 - 64 years,Female,Pedal cyclists,Killed,1
+1672,2010,55 - 64 years,Female,Other road users,Injured,10
+1673,2010,55 - 64 years,Female,Other road users,Killed,0
+1674,2010,55 - 64 years,Female,Motor cyclists,Injured,0
+1675,2010,55 - 64 years,Female,Motor cyclists,Killed,0
+1676,2010,55 - 64 years,Female,Car passengers,Injured,93
+1677,2010,55 - 64 years,Female,Car passengers,Killed,0
+1678,2010,55 - 64 years,Female,Car drivers,Injured,138
+1679,2010,55 - 64 years,Female,Car drivers,Killed,2
+1680,2010,65 years and over,Male,Pedestrians,Injured,40
+1681,2010,65 years and over,Male,Pedestrians,Killed,6
+1682,2010,65 years and over,Male,Pedal cyclists,Injured,14
+1683,2010,65 years and over,Male,Pedal cyclists,Killed,3
+1684,2010,65 years and over,Male,Other road users,Injured,17
+1685,2010,65 years and over,Male,Other road users,Killed,0
+1686,2010,65 years and over,Male,Motor cyclists,Injured,4
+1687,2010,65 years and over,Male,Motor cyclists,Killed,0
+1688,2010,65 years and over,Male,Car passengers,Injured,29
+1689,2010,65 years and over,Male,Car passengers,Killed,1
+1690,2010,65 years and over,Male,Car drivers,Injured,174
+1691,2010,65 years and over,Male,Car drivers,Killed,12
+1692,2010,65 years and over,Female,Pedestrians,Injured,52
+1693,2010,65 years and over,Female,Pedestrians,Killed,4
+1694,2010,65 years and over,Female,Pedal cyclists,Injured,0
+1695,2010,65 years and over,Female,Pedal cyclists,Killed,0
+1696,2010,65 years and over,Female,Other road users,Injured,6
+1697,2010,65 years and over,Female,Other road users,Killed,0
+1698,2010,65 years and over,Female,Motor cyclists,Injured,0
+1699,2010,65 years and over,Female,Motor cyclists,Killed,0
+1700,2010,65 years and over,Female,Car passengers,Injured,96
+1701,2010,65 years and over,Female,Car passengers,Killed,1
+1702,2010,65 years and over,Female,Car drivers,Injured,112
+1703,2010,65 years and over,Female,Car drivers,Killed,3
+1704,2010,Age unknown,Male,Pedestrians,Injured,10
+1705,2010,Age unknown,Male,Pedestrians,Killed,0
+1706,2010,Age unknown,Male,Pedal cyclists,Injured,7
+1707,2010,Age unknown,Male,Pedal cyclists,Killed,0
+1708,2010,Age unknown,Male,Other road users,Injured,3
+1709,2010,Age unknown,Male,Other road users,Killed,0
+1710,2010,Age unknown,Male,Motor cyclists,Injured,3
+1711,2010,Age unknown,Male,Motor cyclists,Killed,0
+1712,2010,Age unknown,Male,Car passengers,Injured,12
+1713,2010,Age unknown,Male,Car passengers,Killed,0
+1714,2010,Age unknown,Male,Car drivers,Injured,7
+1715,2010,Age unknown,Male,Car drivers,Killed,0
+1716,2010,Age unknown,Female,Pedestrians,Injured,6
+1717,2010,Age unknown,Female,Pedestrians,Killed,0
+1718,2010,Age unknown,Female,Pedal cyclists,Injured,0
+1719,2010,Age unknown,Female,Pedal cyclists,Killed,0
+1720,2010,Age unknown,Female,Other road users,Injured,2
+1721,2010,Age unknown,Female,Other road users,Killed,0
+1722,2010,Age unknown,Female,Motor cyclists,Injured,0
+1723,2010,Age unknown,Female,Motor cyclists,Killed,0
+1724,2010,Age unknown,Female,Car passengers,Injured,11
+1725,2010,Age unknown,Female,Car passengers,Killed,0
+1726,2010,Age unknown,Female,Car drivers,Injured,7
+1727,2010,Age unknown,Female,Car drivers,Killed,0
+1728,2011,00 - 05 years,Male,Pedestrians,Injured,43
+1729,2011,00 - 05 years,Male,Pedestrians,Killed,7
+1730,2011,00 - 05 years,Male,Pedal cyclists,Injured,42
+1731,2011,00 - 05 years,Male,Pedal cyclists,Killed,48
+1732,2011,00 - 05 years,Male,Other road users,Injured,20
+1733,2011,00 - 05 years,Male,Other road users,Killed,51
+1734,2011,00 - 05 years,Male,Motor cyclists,Injured,51
+1735,2011,00 - 05 years,Male,Motor cyclists,Killed,50
+1736,2011,00 - 05 years,Male,Car passengers,Injured,45
+1737,2011,00 - 05 years,Male,Car passengers,Killed,39
+1738,2011,00 - 05 years,Male,Car drivers,Injured,39
+1739,2011,00 - 05 years,Male,Car drivers,Killed,99
+1740,2011,00 - 05 years,Female,Pedestrians,Injured,2
+1741,2011,00 - 05 years,Female,Pedestrians,Killed,0
+1742,2011,00 - 05 years,Female,Pedal cyclists,Injured,3
+1743,2011,00 - 05 years,Female,Pedal cyclists,Killed,9
+1744,2011,00 - 05 years,Female,Other road users,Injured,0
+1745,2011,00 - 05 years,Female,Other road users,Killed,2
+1746,2011,00 - 05 years,Female,Motor cyclists,Injured,1
+1747,2011,00 - 05 years,Female,Motor cyclists,Killed,3
+1748,2011,00 - 05 years,Female,Car passengers,Injured,1
+1749,2011,00 - 05 years,Female,Car passengers,Killed,5
+1750,2011,00 - 05 years,Female,Car drivers,Injured,0
+1751,2011,00 - 05 years,Female,Car drivers,Killed,7
+1752,2011,06 - 09 years,Male,Pedestrians,Injured,22
+1753,2011,06 - 09 years,Male,Pedestrians,Killed,5
+1754,2011,06 - 09 years,Male,Pedal cyclists,Injured,13
+1755,2011,06 - 09 years,Male,Pedal cyclists,Killed,13
+1756,2011,06 - 09 years,Male,Other road users,Injured,14
+1757,2011,06 - 09 years,Male,Other road users,Killed,21
+1758,2011,06 - 09 years,Male,Motor cyclists,Injured,25
+1759,2011,06 - 09 years,Male,Motor cyclists,Killed,44
+1760,2011,06 - 09 years,Male,Car passengers,Injured,18
+1761,2011,06 - 09 years,Male,Car passengers,Killed,50
+1762,2011,06 - 09 years,Male,Car drivers,Injured,3
+1763,2011,06 - 09 years,Male,Car drivers,Killed,61
+1764,2011,06 - 09 years,Female,Pedestrians,Injured,2
+1765,2011,06 - 09 years,Female,Pedestrians,Killed,0
+1766,2011,06 - 09 years,Female,Pedal cyclists,Injured,1
+1767,2011,06 - 09 years,Female,Pedal cyclists,Killed,0
+1768,2011,06 - 09 years,Female,Other road users,Injured,0
+1769,2011,06 - 09 years,Female,Other road users,Killed,1
+1770,2011,06 - 09 years,Female,Motor cyclists,Injured,0
+1771,2011,06 - 09 years,Female,Motor cyclists,Killed,0
+1772,2011,06 - 09 years,Female,Car passengers,Injured,1
+1773,2011,06 - 09 years,Female,Car passengers,Killed,2
+1774,2011,06 - 09 years,Female,Car drivers,Injured,1
+1775,2011,06 - 09 years,Female,Car drivers,Killed,1
+1776,2011,10 - 14 years,Male,Pedestrians,Injured,28
+1777,2011,10 - 14 years,Male,Pedestrians,Killed,4
+1778,2011,10 - 14 years,Male,Pedal cyclists,Injured,17
+1779,2011,10 - 14 years,Male,Pedal cyclists,Killed,7
+1780,2011,10 - 14 years,Male,Other road users,Injured,6
+1781,2011,10 - 14 years,Male,Other road users,Killed,23
+1782,2011,10 - 14 years,Male,Motor cyclists,Injured,2
+1783,2011,10 - 14 years,Male,Motor cyclists,Killed,43
+1784,2011,10 - 14 years,Male,Car passengers,Injured,0
+1785,2011,10 - 14 years,Male,Car passengers,Killed,62
+1786,2011,10 - 14 years,Male,Car drivers,Injured,0
+1787,2011,10 - 14 years,Male,Car drivers,Killed,87
+1788,2011,10 - 14 years,Female,Pedestrians,Injured,0
+1789,2011,10 - 14 years,Female,Pedestrians,Killed,0
+1790,2011,10 - 14 years,Female,Pedal cyclists,Injured,0
+1791,2011,10 - 14 years,Female,Pedal cyclists,Killed,1
+1792,2011,10 - 14 years,Female,Other road users,Injured,0
+1793,2011,10 - 14 years,Female,Other road users,Killed,1
+1794,2011,10 - 14 years,Female,Motor cyclists,Injured,0
+1795,2011,10 - 14 years,Female,Motor cyclists,Killed,1
+1796,2011,10 - 14 years,Female,Car passengers,Injured,0
+1797,2011,10 - 14 years,Female,Car passengers,Killed,6
+1798,2011,10 - 14 years,Female,Car drivers,Injured,0
+1799,2011,10 - 14 years,Female,Car drivers,Killed,8
+1800,2011,15 - 17 years,Male,Pedestrians,Injured,179
+1801,2011,15 - 17 years,Male,Pedestrians,Killed,10
+1802,2011,15 - 17 years,Male,Pedal cyclists,Injured,145
+1803,2011,15 - 17 years,Male,Pedal cyclists,Killed,152
+1804,2011,15 - 17 years,Male,Other road users,Injured,33
+1805,2011,15 - 17 years,Male,Other road users,Killed,101
+1806,2011,15 - 17 years,Male,Motor cyclists,Injured,0
+1807,2011,15 - 17 years,Male,Motor cyclists,Killed,191
+1808,2011,15 - 17 years,Male,Car passengers,Injured,0
+1809,2011,15 - 17 years,Male,Car passengers,Killed,291
+1810,2011,15 - 17 years,Male,Car drivers,Injured,0
+1811,2011,15 - 17 years,Male,Car drivers,Killed,379
+1812,2011,15 - 17 years,Female,Pedestrians,Injured,7
+1813,2011,15 - 17 years,Female,Pedestrians,Killed,0
+1814,2011,15 - 17 years,Female,Pedal cyclists,Injured,7
+1815,2011,15 - 17 years,Female,Pedal cyclists,Killed,6
+1816,2011,15 - 17 years,Female,Other road users,Injured,3
+1817,2011,15 - 17 years,Female,Other road users,Killed,3
+1818,2011,15 - 17 years,Female,Motor cyclists,Injured,0
+1819,2011,15 - 17 years,Female,Motor cyclists,Killed,1
+1820,2011,15 - 17 years,Female,Car passengers,Injured,0
+1821,2011,15 - 17 years,Female,Car passengers,Killed,7
+1822,2011,15 - 17 years,Female,Car drivers,Injured,0
+1823,2011,15 - 17 years,Female,Car drivers,Killed,8
+1824,2011,18 - 20 years,Male,Pedestrians,Injured,141
+1825,2011,18 - 20 years,Male,Pedestrians,Killed,12
+1826,2011,18 - 20 years,Male,Pedal cyclists,Injured,143
+1827,2011,18 - 20 years,Male,Pedal cyclists,Killed,25
+1828,2011,18 - 20 years,Male,Other road users,Injured,79
+1829,2011,18 - 20 years,Male,Other road users,Killed,32
+1830,2011,18 - 20 years,Male,Motor cyclists,Injured,54
+1831,2011,18 - 20 years,Male,Motor cyclists,Killed,36
+1832,2011,18 - 20 years,Male,Car passengers,Injured,40
+1833,2011,18 - 20 years,Male,Car passengers,Killed,71
+1834,2011,18 - 20 years,Male,Car drivers,Injured,54
+1835,2011,18 - 20 years,Male,Car drivers,Killed,188
+1836,2011,18 - 20 years,Female,Pedestrians,Injured,1
+1837,2011,18 - 20 years,Female,Pedestrians,Killed,0
+1838,2011,18 - 20 years,Female,Pedal cyclists,Injured,4
+1839,2011,18 - 20 years,Female,Pedal cyclists,Killed,1
+1840,2011,18 - 20 years,Female,Other road users,Injured,1
+1841,2011,18 - 20 years,Female,Other road users,Killed,0
+1842,2011,18 - 20 years,Female,Motor cyclists,Injured,0
+1843,2011,18 - 20 years,Female,Motor cyclists,Killed,0
+1844,2011,18 - 20 years,Female,Car passengers,Injured,0
+1845,2011,18 - 20 years,Female,Car passengers,Killed,1
+1846,2011,18 - 20 years,Female,Car drivers,Injured,1
+1847,2011,18 - 20 years,Female,Car drivers,Killed,6
+1848,2011,21 - 24 years,Male,Pedestrians,Injured,46
+1849,2011,21 - 24 years,Male,Pedestrians,Killed,8
+1850,2011,21 - 24 years,Male,Pedal cyclists,Injured,48
+1851,2011,21 - 24 years,Male,Pedal cyclists,Killed,25
+1852,2011,21 - 24 years,Male,Other road users,Injured,27
+1853,2011,21 - 24 years,Male,Other road users,Killed,42
+1854,2011,21 - 24 years,Male,Motor cyclists,Injured,17
+1855,2011,21 - 24 years,Male,Motor cyclists,Killed,58
+1856,2011,21 - 24 years,Male,Car passengers,Injured,8
+1857,2011,21 - 24 years,Male,Car passengers,Killed,93
+1858,2011,21 - 24 years,Male,Car drivers,Injured,2
+1859,2011,21 - 24 years,Male,Car drivers,Killed,137
+1860,2011,21 - 24 years,Female,Pedestrians,Injured,2
+1861,2011,21 - 24 years,Female,Pedestrians,Killed,0
+1862,2011,21 - 24 years,Female,Pedal cyclists,Injured,1
+1863,2011,21 - 24 years,Female,Pedal cyclists,Killed,1
+1864,2011,21 - 24 years,Female,Other road users,Injured,2
+1865,2011,21 - 24 years,Female,Other road users,Killed,1
+1866,2011,21 - 24 years,Female,Motor cyclists,Injured,0
+1867,2011,21 - 24 years,Female,Motor cyclists,Killed,1
+1868,2011,21 - 24 years,Female,Car passengers,Injured,0
+1869,2011,21 - 24 years,Female,Car passengers,Killed,1
+1870,2011,21 - 24 years,Female,Car drivers,Injured,0
+1871,2011,21 - 24 years,Female,Car drivers,Killed,5
+1872,2011,25 - 34 years,Male,Pedestrians,Injured,17
+1873,2011,25 - 34 years,Male,Pedestrians,Killed,6
+1874,2011,25 - 34 years,Male,Pedal cyclists,Injured,22
+1875,2011,25 - 34 years,Male,Pedal cyclists,Killed,73
+1876,2011,25 - 34 years,Male,Other road users,Injured,23
+1877,2011,25 - 34 years,Male,Other road users,Killed,36
+1878,2011,25 - 34 years,Male,Motor cyclists,Injured,43
+1879,2011,25 - 34 years,Male,Motor cyclists,Killed,35
+1880,2011,25 - 34 years,Male,Car passengers,Injured,23
+1881,2011,25 - 34 years,Male,Car passengers,Killed,28
+1882,2011,25 - 34 years,Male,Car drivers,Injured,24
+1883,2011,25 - 34 years,Male,Car drivers,Killed,53
+1884,2011,25 - 34 years,Female,Pedestrians,Injured,0
+1885,2011,25 - 34 years,Female,Pedestrians,Killed,0
+1886,2011,25 - 34 years,Female,Pedal cyclists,Injured,0
+1887,2011,25 - 34 years,Female,Pedal cyclists,Killed,6
+1888,2011,25 - 34 years,Female,Other road users,Injured,1
+1889,2011,25 - 34 years,Female,Other road users,Killed,1
+1890,2011,25 - 34 years,Female,Motor cyclists,Injured,1
+1891,2011,25 - 34 years,Female,Motor cyclists,Killed,1
+1892,2011,25 - 34 years,Female,Car passengers,Injured,0
+1893,2011,25 - 34 years,Female,Car passengers,Killed,4
+1894,2011,25 - 34 years,Female,Car drivers,Injured,0
+1895,2011,25 - 34 years,Female,Car drivers,Killed,0
+1896,2011,35 - 44 years,Male,Pedestrians,Injured,11
+1897,2011,35 - 44 years,Male,Pedestrians,Killed,1
+1898,2011,35 - 44 years,Male,Pedal cyclists,Injured,6
+1899,2011,35 - 44 years,Male,Pedal cyclists,Killed,1
+1900,2011,35 - 44 years,Male,Other road users,Injured,2
+1901,2011,35 - 44 years,Male,Other road users,Killed,6
+1902,2011,35 - 44 years,Male,Motor cyclists,Injured,2
+1903,2011,35 - 44 years,Male,Motor cyclists,Killed,15
+1904,2011,35 - 44 years,Male,Car passengers,Injured,2
+1905,2011,35 - 44 years,Male,Car passengers,Killed,14
+1906,2011,35 - 44 years,Male,Car drivers,Injured,0
+1907,2011,35 - 44 years,Male,Car drivers,Killed,29
+1908,2011,35 - 44 years,Female,Pedestrians,Injured,0
+1909,2011,35 - 44 years,Female,Pedestrians,Killed,0
+1910,2011,35 - 44 years,Female,Pedal cyclists,Injured,0
+1911,2011,35 - 44 years,Female,Pedal cyclists,Killed,0
+1912,2011,35 - 44 years,Female,Other road users,Injured,0
+1913,2011,35 - 44 years,Female,Other road users,Killed,0
+1914,2011,35 - 44 years,Female,Motor cyclists,Injured,0
+1915,2011,35 - 44 years,Female,Motor cyclists,Killed,0
+1916,2011,35 - 44 years,Female,Car passengers,Injured,0
+1917,2011,35 - 44 years,Female,Car passengers,Killed,0
+1918,2011,35 - 44 years,Female,Car drivers,Injured,0
+1919,2011,35 - 44 years,Female,Car drivers,Killed,0
+1920,2011,45 - 54 years,Male,Pedestrians,Injured,4
+1921,2011,45 - 54 years,Male,Pedestrians,Killed,1
+1922,2011,45 - 54 years,Male,Pedal cyclists,Injured,2
+1923,2011,45 - 54 years,Male,Pedal cyclists,Killed,0
+1924,2011,45 - 54 years,Male,Other road users,Injured,1
+1925,2011,45 - 54 years,Male,Other road users,Killed,5
+1926,2011,45 - 54 years,Male,Motor cyclists,Injured,0
+1927,2011,45 - 54 years,Male,Motor cyclists,Killed,3
+1928,2011,45 - 54 years,Male,Car passengers,Injured,0
+1929,2011,45 - 54 years,Male,Car passengers,Killed,6
+1930,2011,45 - 54 years,Male,Car drivers,Injured,0
+1931,2011,45 - 54 years,Male,Car drivers,Killed,10
+1932,2011,45 - 54 years,Female,Pedestrians,Injured,0
+1933,2011,45 - 54 years,Female,Pedestrians,Killed,0
+1934,2011,45 - 54 years,Female,Pedal cyclists,Injured,0
+1935,2011,45 - 54 years,Female,Pedal cyclists,Killed,1
+1936,2011,45 - 54 years,Female,Other road users,Injured,0
+1937,2011,45 - 54 years,Female,Other road users,Killed,0
+1938,2011,45 - 54 years,Female,Motor cyclists,Injured,0
+1939,2011,45 - 54 years,Female,Motor cyclists,Killed,0
+1940,2011,45 - 54 years,Female,Car passengers,Injured,0
+1941,2011,45 - 54 years,Female,Car passengers,Killed,0
+1942,2011,45 - 54 years,Female,Car drivers,Injured,0
+1943,2011,45 - 54 years,Female,Car drivers,Killed,0
+1944,2011,55 - 64 years,Male,Pedestrians,Injured,177
+1945,2011,55 - 64 years,Male,Pedestrians,Killed,4
+1946,2011,55 - 64 years,Male,Pedal cyclists,Injured,104
+1947,2011,55 - 64 years,Male,Pedal cyclists,Killed,1010
+1948,2011,55 - 64 years,Male,Other road users,Injured,13
+1949,2011,55 - 64 years,Male,Other road users,Killed,119
+1950,2011,55 - 64 years,Male,Motor cyclists,Injured,0
+1951,2011,55 - 64 years,Male,Motor cyclists,Killed,183
+1952,2011,55 - 64 years,Male,Car passengers,Injured,0
+1953,2011,55 - 64 years,Male,Car passengers,Killed,294
+1954,2011,55 - 64 years,Male,Car drivers,Injured,0
+1955,2011,55 - 64 years,Male,Car drivers,Killed,370
+1956,2011,55 - 64 years,Female,Pedestrians,Injured,2
+1957,2011,55 - 64 years,Female,Pedestrians,Killed,0
+1958,2011,55 - 64 years,Female,Pedal cyclists,Injured,4
+1959,2011,55 - 64 years,Female,Pedal cyclists,Killed,7
+1960,2011,55 - 64 years,Female,Other road users,Injured,0
+1961,2011,55 - 64 years,Female,Other road users,Killed,1
+1962,2011,55 - 64 years,Female,Motor cyclists,Injured,0
+1963,2011,55 - 64 years,Female,Motor cyclists,Killed,2
+1964,2011,55 - 64 years,Female,Car passengers,Injured,0
+1965,2011,55 - 64 years,Female,Car passengers,Killed,4
+1966,2011,55 - 64 years,Female,Car drivers,Injured,0
+1967,2011,55 - 64 years,Female,Car drivers,Killed,3
+1968,2011,65 years and over,Male,Pedestrians,Injured,126
+1969,2011,65 years and over,Male,Pedestrians,Killed,10
+1970,2011,65 years and over,Male,Pedal cyclists,Injured,128
+1971,2011,65 years and over,Male,Pedal cyclists,Killed,78
+1972,2011,65 years and over,Male,Other road users,Injured,67
+1973,2011,65 years and over,Male,Other road users,Killed,57
+1974,2011,65 years and over,Male,Motor cyclists,Injured,52
+1975,2011,65 years and over,Male,Motor cyclists,Killed,75
+1976,2011,65 years and over,Male,Car passengers,Injured,49
+1977,2011,65 years and over,Male,Car passengers,Killed,72
+1978,2011,65 years and over,Male,Car drivers,Injured,69
+1979,2011,65 years and over,Male,Car drivers,Killed,175
+1980,2011,65 years and over,Female,Pedestrians,Injured,0
+1981,2011,65 years and over,Female,Pedestrians,Killed,0
+1982,2011,65 years and over,Female,Pedal cyclists,Injured,1
+1983,2011,65 years and over,Female,Pedal cyclists,Killed,5
+1984,2011,65 years and over,Female,Other road users,Injured,2
+1985,2011,65 years and over,Female,Other road users,Killed,3
+1986,2011,65 years and over,Female,Motor cyclists,Injured,1
+1987,2011,65 years and over,Female,Motor cyclists,Killed,0
+1988,2011,65 years and over,Female,Car passengers,Injured,0
+1989,2011,65 years and over,Female,Car passengers,Killed,0
+1990,2011,65 years and over,Female,Car drivers,Injured,0
+1991,2011,65 years and over,Female,Car drivers,Killed,3
+1992,2011,Age unknown,Male,Pedestrians,Injured,16
+1993,2011,Age unknown,Male,Pedestrians,Killed,0
+1994,2011,Age unknown,Male,Pedal cyclists,Injured,9
+1995,2011,Age unknown,Male,Pedal cyclists,Killed,7
+1996,2011,Age unknown,Male,Other road users,Injured,3
+1997,2011,Age unknown,Male,Other road users,Killed,8
+1998,2011,Age unknown,Male,Motor cyclists,Injured,1
+1999,2011,Age unknown,Male,Motor cyclists,Killed,13
+2000,2011,Age unknown,Male,Car passengers,Injured,0
+2001,2011,Age unknown,Male,Car passengers,Killed,20
+2002,2011,Age unknown,Male,Car drivers,Injured,0
+2003,2011,Age unknown,Male,Car drivers,Killed,32
+2004,2011,Age unknown,Female,Pedestrians,Injured,1
+2005,2011,Age unknown,Female,Pedestrians,Killed,0
+2006,2011,Age unknown,Female,Pedal cyclists,Injured,1
+2007,2011,Age unknown,Female,Pedal cyclists,Killed,0
+2008,2011,Age unknown,Female,Other road users,Injured,1
+2009,2011,Age unknown,Female,Other road users,Killed,0
+2010,2011,Age unknown,Female,Motor cyclists,Injured,0
+2011,2011,Age unknown,Female,Motor cyclists,Killed,0
+2012,2011,Age unknown,Female,Car passengers,Injured,0
+2013,2011,Age unknown,Female,Car passengers,Killed,0
+2014,2011,Age unknown,Female,Car drivers,Injured,0
+2015,2011,Age unknown,Female,Car drivers,Killed,0
+2016,2012,00 - 05 years,Male,Pedestrians,Injured,40
+2017,2012,00 - 05 years,Male,Pedestrians,Killed,0
+2018,2012,00 - 05 years,Male,Pedal cyclists,Injured,1
+2019,2012,00 - 05 years,Male,Pedal cyclists,Killed,0
+2020,2012,00 - 05 years,Male,Other road users,Injured,2
+2021,2012,00 - 05 years,Male,Other road users,Killed,0
+2022,2012,00 - 05 years,Male,Motor cyclists,Injured,0
+2023,2012,00 - 05 years,Male,Motor cyclists,Killed,0
+2024,2012,00 - 05 years,Male,Car passengers,Injured,83
+2025,2012,00 - 05 years,Male,Car passengers,Killed,0
+2026,2012,00 - 05 years,Male,Car drivers,Injured,0
+2027,2012,00 - 05 years,Male,Car drivers,Killed,0
+2028,2012,00 - 05 years,Female,Pedestrians,Injured,29
+2029,2012,00 - 05 years,Female,Pedestrians,Killed,2
+2030,2012,00 - 05 years,Female,Pedal cyclists,Injured,1
+2031,2012,00 - 05 years,Female,Pedal cyclists,Killed,0
+2032,2012,00 - 05 years,Female,Other road users,Injured,2
+2033,2012,00 - 05 years,Female,Other road users,Killed,0
+2034,2012,00 - 05 years,Female,Motor cyclists,Injured,0
+2035,2012,00 - 05 years,Female,Motor cyclists,Killed,0
+2036,2012,00 - 05 years,Female,Car passengers,Injured,56
+2037,2012,00 - 05 years,Female,Car passengers,Killed,0
+2038,2012,00 - 05 years,Female,Car drivers,Injured,0
+2039,2012,00 - 05 years,Female,Car drivers,Killed,0
+2040,2012,06 - 09 years,Male,Pedestrians,Injured,41
+2041,2012,06 - 09 years,Male,Pedestrians,Killed,1
+2042,2012,06 - 09 years,Male,Pedal cyclists,Injured,12
+2043,2012,06 - 09 years,Male,Pedal cyclists,Killed,0
+2044,2012,06 - 09 years,Male,Other road users,Injured,2
+2045,2012,06 - 09 years,Male,Other road users,Killed,0
+2046,2012,06 - 09 years,Male,Motor cyclists,Injured,0
+2047,2012,06 - 09 years,Male,Motor cyclists,Killed,0
+2048,2012,06 - 09 years,Male,Car passengers,Injured,54
+2049,2012,06 - 09 years,Male,Car passengers,Killed,0
+2050,2012,06 - 09 years,Male,Car drivers,Injured,0
+2051,2012,06 - 09 years,Male,Car drivers,Killed,0
+2052,2012,06 - 09 years,Female,Pedestrians,Injured,20
+2053,2012,06 - 09 years,Female,Pedestrians,Killed,0
+2054,2012,06 - 09 years,Female,Pedal cyclists,Injured,2
+2055,2012,06 - 09 years,Female,Pedal cyclists,Killed,0
+2056,2012,06 - 09 years,Female,Other road users,Injured,0
+2057,2012,06 - 09 years,Female,Other road users,Killed,0
+2058,2012,06 - 09 years,Female,Motor cyclists,Injured,0
+2059,2012,06 - 09 years,Female,Motor cyclists,Killed,0
+2060,2012,06 - 09 years,Female,Car passengers,Injured,48
+2061,2012,06 - 09 years,Female,Car passengers,Killed,0
+2062,2012,06 - 09 years,Female,Car drivers,Injured,0
+2063,2012,06 - 09 years,Female,Car drivers,Killed,0
+2064,2012,10 - 14 years,Male,Pedestrians,Injured,54
+2065,2012,10 - 14 years,Male,Pedestrians,Killed,0
+2066,2012,10 - 14 years,Male,Pedal cyclists,Injured,31
+2067,2012,10 - 14 years,Male,Pedal cyclists,Killed,0
+2068,2012,10 - 14 years,Male,Other road users,Injured,8
+2069,2012,10 - 14 years,Male,Other road users,Killed,0
+2070,2012,10 - 14 years,Male,Motor cyclists,Injured,1
+2071,2012,10 - 14 years,Male,Motor cyclists,Killed,0
+2072,2012,10 - 14 years,Male,Car passengers,Injured,62
+2073,2012,10 - 14 years,Male,Car passengers,Killed,0
+2074,2012,10 - 14 years,Male,Car drivers,Injured,0
+2075,2012,10 - 14 years,Male,Car drivers,Killed,0
+2076,2012,10 - 14 years,Female,Pedestrians,Injured,52
+2077,2012,10 - 14 years,Female,Pedestrians,Killed,0
+2078,2012,10 - 14 years,Female,Pedal cyclists,Injured,6
+2079,2012,10 - 14 years,Female,Pedal cyclists,Killed,0
+2080,2012,10 - 14 years,Female,Other road users,Injured,1
+2081,2012,10 - 14 years,Female,Other road users,Killed,0
+2082,2012,10 - 14 years,Female,Motor cyclists,Injured,0
+2083,2012,10 - 14 years,Female,Motor cyclists,Killed,0
+2084,2012,10 - 14 years,Female,Car passengers,Injured,67
+2085,2012,10 - 14 years,Female,Car passengers,Killed,0
+2086,2012,10 - 14 years,Female,Car drivers,Injured,0
+2087,2012,10 - 14 years,Female,Car drivers,Killed,0
+2088,2012,15 - 17 years,Male,Pedestrians,Injured,37
+2089,2012,15 - 17 years,Male,Pedestrians,Killed,1
+2090,2012,15 - 17 years,Male,Pedal cyclists,Injured,26
+2091,2012,15 - 17 years,Male,Pedal cyclists,Killed,0
+2092,2012,15 - 17 years,Male,Other road users,Injured,13
+2093,2012,15 - 17 years,Male,Other road users,Killed,0
+2094,2012,15 - 17 years,Male,Motor cyclists,Injured,8
+2095,2012,15 - 17 years,Male,Motor cyclists,Killed,0
+2096,2012,15 - 17 years,Male,Car passengers,Injured,94
+2097,2012,15 - 17 years,Male,Car passengers,Killed,4
+2098,2012,15 - 17 years,Male,Car drivers,Injured,26
+2099,2012,15 - 17 years,Male,Car drivers,Killed,2
+2100,2012,15 - 17 years,Female,Pedestrians,Injured,24
+2101,2012,15 - 17 years,Female,Pedestrians,Killed,0
+2102,2012,15 - 17 years,Female,Pedal cyclists,Injured,4
+2103,2012,15 - 17 years,Female,Pedal cyclists,Killed,0
+2104,2012,15 - 17 years,Female,Other road users,Injured,5
+2105,2012,15 - 17 years,Female,Other road users,Killed,0
+2106,2012,15 - 17 years,Female,Motor cyclists,Injured,0
+2107,2012,15 - 17 years,Female,Motor cyclists,Killed,0
+2108,2012,15 - 17 years,Female,Car passengers,Injured,96
+2109,2012,15 - 17 years,Female,Car passengers,Killed,0
+2110,2012,15 - 17 years,Female,Car drivers,Injured,16
+2111,2012,15 - 17 years,Female,Car drivers,Killed,0
+2112,2012,18 - 20 years,Male,Pedestrians,Injured,40
+2113,2012,18 - 20 years,Male,Pedestrians,Killed,0
+2114,2012,18 - 20 years,Male,Pedal cyclists,Injured,22
+2115,2012,18 - 20 years,Male,Pedal cyclists,Killed,0
+2116,2012,18 - 20 years,Male,Other road users,Injured,35
+2117,2012,18 - 20 years,Male,Other road users,Killed,2
+2118,2012,18 - 20 years,Male,Motor cyclists,Injured,9
+2119,2012,18 - 20 years,Male,Motor cyclists,Killed,2
+2120,2012,18 - 20 years,Male,Car passengers,Injured,155
+2121,2012,18 - 20 years,Male,Car passengers,Killed,2
+2122,2012,18 - 20 years,Male,Car drivers,Injured,157
+2123,2012,18 - 20 years,Male,Car drivers,Killed,4
+2124,2012,18 - 20 years,Female,Pedestrians,Injured,29
+2125,2012,18 - 20 years,Female,Pedestrians,Killed,0
+2126,2012,18 - 20 years,Female,Pedal cyclists,Injured,9
+2127,2012,18 - 20 years,Female,Pedal cyclists,Killed,0
+2128,2012,18 - 20 years,Female,Other road users,Injured,16
+2129,2012,18 - 20 years,Female,Other road users,Killed,0
+2130,2012,18 - 20 years,Female,Motor cyclists,Injured,1
+2131,2012,18 - 20 years,Female,Motor cyclists,Killed,0
+2132,2012,18 - 20 years,Female,Car passengers,Injured,117
+2133,2012,18 - 20 years,Female,Car passengers,Killed,0
+2134,2012,18 - 20 years,Female,Car drivers,Injured,97
+2135,2012,18 - 20 years,Female,Car drivers,Killed,2
+2136,2012,21 - 24 years,Male,Pedestrians,Injured,56
+2137,2012,21 - 24 years,Male,Pedestrians,Killed,0
+2138,2012,21 - 24 years,Male,Pedal cyclists,Injured,31
+2139,2012,21 - 24 years,Male,Pedal cyclists,Killed,0
+2140,2012,21 - 24 years,Male,Other road users,Injured,48
+2141,2012,21 - 24 years,Male,Other road users,Killed,1
+2142,2012,21 - 24 years,Male,Motor cyclists,Injured,29
+2143,2012,21 - 24 years,Male,Motor cyclists,Killed,0
+2144,2012,21 - 24 years,Male,Car passengers,Injured,172
+2145,2012,21 - 24 years,Male,Car passengers,Killed,7
+2146,2012,21 - 24 years,Male,Car drivers,Injured,189
+2147,2012,21 - 24 years,Male,Car drivers,Killed,10
+2148,2012,21 - 24 years,Female,Pedestrians,Injured,22
+2149,2012,21 - 24 years,Female,Pedestrians,Killed,0
+2150,2012,21 - 24 years,Female,Pedal cyclists,Injured,9
+2151,2012,21 - 24 years,Female,Pedal cyclists,Killed,0
+2152,2012,21 - 24 years,Female,Other road users,Injured,9
+2153,2012,21 - 24 years,Female,Other road users,Killed,1
+2154,2012,21 - 24 years,Female,Motor cyclists,Injured,3
+2155,2012,21 - 24 years,Female,Motor cyclists,Killed,0
+2156,2012,21 - 24 years,Female,Car passengers,Injured,95
+2157,2012,21 - 24 years,Female,Car passengers,Killed,1
+2158,2012,21 - 24 years,Female,Car drivers,Injured,148
+2159,2012,21 - 24 years,Female,Car drivers,Killed,3
+2160,2012,25 - 34 years,Male,Pedestrians,Injured,79
+2161,2012,25 - 34 years,Male,Pedestrians,Killed,3
+2162,2012,25 - 34 years,Male,Pedal cyclists,Injured,101
+2163,2012,25 - 34 years,Male,Pedal cyclists,Killed,0
+2164,2012,25 - 34 years,Male,Other road users,Injured,105
+2165,2012,25 - 34 years,Male,Other road users,Killed,3
+2166,2012,25 - 34 years,Male,Motor cyclists,Injured,77
+2167,2012,25 - 34 years,Male,Motor cyclists,Killed,8
+2168,2012,25 - 34 years,Male,Car passengers,Injured,199
+2169,2012,25 - 34 years,Male,Car passengers,Killed,1
+2170,2012,25 - 34 years,Male,Car drivers,Injured,377
+2171,2012,25 - 34 years,Male,Car drivers,Killed,8
+2172,2012,25 - 34 years,Female,Pedestrians,Injured,49
+2173,2012,25 - 34 years,Female,Pedestrians,Killed,0
+2174,2012,25 - 34 years,Female,Pedal cyclists,Injured,56
+2175,2012,25 - 34 years,Female,Pedal cyclists,Killed,0
+2176,2012,25 - 34 years,Female,Other road users,Injured,24
+2177,2012,25 - 34 years,Female,Other road users,Killed,0
+2178,2012,25 - 34 years,Female,Motor cyclists,Injured,9
+2179,2012,25 - 34 years,Female,Motor cyclists,Killed,2
+2180,2012,25 - 34 years,Female,Car passengers,Injured,192
+2181,2012,25 - 34 years,Female,Car passengers,Killed,2
+2182,2012,25 - 34 years,Female,Car drivers,Injured,384
+2183,2012,25 - 34 years,Female,Car drivers,Killed,8
+2184,2012,35 - 44 years,Male,Pedestrians,Injured,69
+2185,2012,35 - 44 years,Male,Pedestrians,Killed,0
+2186,2012,35 - 44 years,Male,Pedal cyclists,Injured,105
+2187,2012,35 - 44 years,Male,Pedal cyclists,Killed,2
+2188,2012,35 - 44 years,Male,Other road users,Injured,86
+2189,2012,35 - 44 years,Male,Other road users,Killed,4
+2190,2012,35 - 44 years,Male,Motor cyclists,Injured,79
+2191,2012,35 - 44 years,Male,Motor cyclists,Killed,3
+2192,2012,35 - 44 years,Male,Car passengers,Injured,89
+2193,2012,35 - 44 years,Male,Car passengers,Killed,0
+2194,2012,35 - 44 years,Male,Car drivers,Injured,351
+2195,2012,35 - 44 years,Male,Car drivers,Killed,3
+2196,2012,35 - 44 years,Female,Pedestrians,Injured,41
+2197,2012,35 - 44 years,Female,Pedestrians,Killed,0
+2198,2012,35 - 44 years,Female,Pedal cyclists,Injured,34
+2199,2012,35 - 44 years,Female,Pedal cyclists,Killed,1
+2200,2012,35 - 44 years,Female,Other road users,Injured,14
+2201,2012,35 - 44 years,Female,Other road users,Killed,0
+2202,2012,35 - 44 years,Female,Motor cyclists,Injured,6
+2203,2012,35 - 44 years,Female,Motor cyclists,Killed,0
+2204,2012,35 - 44 years,Female,Car passengers,Injured,120
+2205,2012,35 - 44 years,Female,Car passengers,Killed,0
+2206,2012,35 - 44 years,Female,Car drivers,Injured,335
+2207,2012,35 - 44 years,Female,Car drivers,Killed,3
+2208,2012,45 - 54 years,Male,Pedestrians,Injured,46
+2209,2012,45 - 54 years,Male,Pedestrians,Killed,3
+2210,2012,45 - 54 years,Male,Pedal cyclists,Injured,72
+2211,2012,45 - 54 years,Male,Pedal cyclists,Killed,1
+2212,2012,45 - 54 years,Male,Other road users,Injured,79
+2213,2012,45 - 54 years,Male,Other road users,Killed,2
+2214,2012,45 - 54 years,Male,Motor cyclists,Injured,63
+2215,2012,45 - 54 years,Male,Motor cyclists,Killed,2
+2216,2012,45 - 54 years,Male,Car passengers,Injured,41
+2217,2012,45 - 54 years,Male,Car passengers,Killed,1
+2218,2012,45 - 54 years,Male,Car drivers,Injured,213
+2219,2012,45 - 54 years,Male,Car drivers,Killed,2
+2220,2012,45 - 54 years,Female,Pedestrians,Injured,44
+2221,2012,45 - 54 years,Female,Pedestrians,Killed,1
+2222,2012,45 - 54 years,Female,Pedal cyclists,Injured,23
+2223,2012,45 - 54 years,Female,Pedal cyclists,Killed,2
+2224,2012,45 - 54 years,Female,Other road users,Injured,12
+2225,2012,45 - 54 years,Female,Other road users,Killed,0
+2226,2012,45 - 54 years,Female,Motor cyclists,Injured,7
+2227,2012,45 - 54 years,Female,Motor cyclists,Killed,1
+2228,2012,45 - 54 years,Female,Car passengers,Injured,80
+2229,2012,45 - 54 years,Female,Car passengers,Killed,0
+2230,2012,45 - 54 years,Female,Car drivers,Injured,240
+2231,2012,45 - 54 years,Female,Car drivers,Killed,4
+2232,2012,55 - 64 years,Male,Pedestrians,Injured,50
+2233,2012,55 - 64 years,Male,Pedestrians,Killed,3
+2234,2012,55 - 64 years,Male,Pedal cyclists,Injured,32
+2235,2012,55 - 64 years,Male,Pedal cyclists,Killed,1
+2236,2012,55 - 64 years,Male,Other road users,Injured,43
+2237,2012,55 - 64 years,Male,Other road users,Killed,2
+2238,2012,55 - 64 years,Male,Motor cyclists,Injured,23
+2239,2012,55 - 64 years,Male,Motor cyclists,Killed,1
+2240,2012,55 - 64 years,Male,Car passengers,Injured,28
+2241,2012,55 - 64 years,Male,Car passengers,Killed,0
+2242,2012,55 - 64 years,Male,Car drivers,Injured,135
+2243,2012,55 - 64 years,Male,Car drivers,Killed,2
+2244,2012,55 - 64 years,Female,Pedestrians,Injured,39
+2245,2012,55 - 64 years,Female,Pedestrians,Killed,1
+2246,2012,55 - 64 years,Female,Pedal cyclists,Injured,10
+2247,2012,55 - 64 years,Female,Pedal cyclists,Killed,0
+2248,2012,55 - 64 years,Female,Other road users,Injured,6
+2249,2012,55 - 64 years,Female,Other road users,Killed,0
+2250,2012,55 - 64 years,Female,Motor cyclists,Injured,3
+2251,2012,55 - 64 years,Female,Motor cyclists,Killed,0
+2252,2012,55 - 64 years,Female,Car passengers,Injured,62
+2253,2012,55 - 64 years,Female,Car passengers,Killed,0
+2254,2012,55 - 64 years,Female,Car drivers,Injured,165
+2255,2012,55 - 64 years,Female,Car drivers,Killed,1
+2256,2012,65 years and over,Male,Pedestrians,Injured,54
+2257,2012,65 years and over,Male,Pedestrians,Killed,9
+2258,2012,65 years and over,Male,Pedal cyclists,Injured,12
+2259,2012,65 years and over,Male,Pedal cyclists,Killed,0
+2260,2012,65 years and over,Male,Other road users,Injured,21
+2261,2012,65 years and over,Male,Other road users,Killed,1
+2262,2012,65 years and over,Male,Motor cyclists,Injured,5
+2263,2012,65 years and over,Male,Motor cyclists,Killed,0
+2264,2012,65 years and over,Male,Car passengers,Injured,30
+2265,2012,65 years and over,Male,Car passengers,Killed,2
+2266,2012,65 years and over,Male,Car drivers,Injured,177
+2267,2012,65 years and over,Male,Car drivers,Killed,5
+2268,2012,65 years and over,Female,Pedestrians,Injured,69
+2269,2012,65 years and over,Female,Pedestrians,Killed,5
+2270,2012,65 years and over,Female,Pedal cyclists,Injured,4
+2271,2012,65 years and over,Female,Pedal cyclists,Killed,1
+2272,2012,65 years and over,Female,Other road users,Injured,10
+2273,2012,65 years and over,Female,Other road users,Killed,1
+2274,2012,65 years and over,Female,Motor cyclists,Injured,0
+2275,2012,65 years and over,Female,Motor cyclists,Killed,0
+2276,2012,65 years and over,Female,Car passengers,Injured,88
+2277,2012,65 years and over,Female,Car passengers,Killed,5
+2278,2012,65 years and over,Female,Car drivers,Injured,117
+2279,2012,65 years and over,Female,Car drivers,Killed,7
+2280,2012,Age unknown,Male,Pedestrians,Injured,6
+2281,2012,Age unknown,Male,Pedestrians,Killed,0
+2282,2012,Age unknown,Male,Pedal cyclists,Injured,10
+2283,2012,Age unknown,Male,Pedal cyclists,Killed,0
+2284,2012,Age unknown,Male,Other road users,Injured,2
+2285,2012,Age unknown,Male,Other road users,Killed,0
+2286,2012,Age unknown,Male,Motor cyclists,Injured,6
+2287,2012,Age unknown,Male,Motor cyclists,Killed,0
+2288,2012,Age unknown,Male,Car passengers,Injured,7
+2289,2012,Age unknown,Male,Car passengers,Killed,0
+2290,2012,Age unknown,Male,Car drivers,Injured,15
+2291,2012,Age unknown,Male,Car drivers,Killed,0
+2292,2012,Age unknown,Female,Pedestrians,Injured,6
+2293,2012,Age unknown,Female,Pedestrians,Killed,0
+2294,2012,Age unknown,Female,Pedal cyclists,Injured,0
+2295,2012,Age unknown,Female,Pedal cyclists,Killed,0
+2296,2012,Age unknown,Female,Other road users,Injured,0
+2297,2012,Age unknown,Female,Other road users,Killed,0
+2298,2012,Age unknown,Female,Motor cyclists,Injured,0
+2299,2012,Age unknown,Female,Motor cyclists,Killed,0
+2300,2012,Age unknown,Female,Car passengers,Injured,11
+2301,2012,Age unknown,Female,Car passengers,Killed,0
+2302,2012,Age unknown,Female,Car drivers,Injured,6
+2303,2012,Age unknown,Female,Car drivers,Killed,0

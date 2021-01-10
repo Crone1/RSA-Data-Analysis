@@ -1,0 +1,289 @@
+	Age	Sex	Participant	Casualty	2008	2009
+0	0 - 5 years	Male	Pedestrians	Injured	54	35
+1	0 - 5 years	Male	Pedestrians	Killed	1	3
+2	0 - 5 years	Male	Pedal cyclists	Injured	0	2
+3	0 - 5 years	Male	Pedal cyclists	Killed	0	0
+4	0 - 5 years	Male	Motor cyclists	Injured	0	0
+5	0 - 5 years	Male	Motor cyclists	Killed	0	0
+6	0 - 5 years	Male	Car drivers	Injured	0	0
+7	0 - 5 years	Male	Car drivers	Killed	0	0
+8	0 - 5 years	Male	Car passengers	Injured	97	85
+9	0 - 5 years	Male	Car passengers	Killed	0	2
+10	0 - 5 years	Male	Other road users	Injured	3	2
+11	0 - 5 years	Male	Other road users	Killed	2	0
+12	0 - 5 years	Female	Pedestrians	Injured	30	23
+13	0 - 5 years	Female	Pedestrians	Killed	0	1
+14	0 - 5 years	Female	Pedal cyclists	Injured	0	1
+15	0 - 5 years	Female	Pedal cyclists	Killed	0	0
+16	0 - 5 years	Female	Motor cyclists	Injured	0	0
+17	0 - 5 years	Female	Motor cyclists	Killed	0	0
+18	0 - 5 years	Female	Car drivers	Injured	0	0
+19	0 - 5 years	Female	Car drivers	Killed	0	0
+20	0 - 5 years	Female	Car passengers	Injured	92	99
+21	0 - 5 years	Female	Car passengers	Killed	1	1
+22	0 - 5 years	Female	Other road users	Injured	2	1
+23	0 - 5 years	Female	Other road users	Killed	0	0
+24	6 - 9 years	Male	Pedestrians	Injured	50	48
+25	6 - 9 years	Male	Pedestrians	Killed	2	1
+26	6 - 9 years	Male	Pedal cyclists	Injured	9	4
+27	6 - 9 years	Male	Pedal cyclists	Killed	0	0
+28	6 - 9 years	Male	Motor cyclists	Injured	1	1
+29	6 - 9 years	Male	Motor cyclists	Killed	0	0
+30	6 - 9 years	Male	Car drivers	Injured	0	0
+31	6 - 9 years	Male	Car drivers	Killed	0	0
+32	6 - 9 years	Male	Car passengers	Injured	69	71
+33	6 - 9 years	Male	Car passengers	Killed	1	0
+34	6 - 9 years	Male	Other road users	Injured	2	3
+35	6 - 9 years	Male	Other road users	Killed	0	0
+36	6 - 9 years	Female	Pedestrians	Injured	31	28
+37	6 - 9 years	Female	Pedestrians	Killed	1	0
+38	6 - 9 years	Female	Pedal cyclists	Injured	0	5
+39	6 - 9 years	Female	Pedal cyclists	Killed	0	0
+40	6 - 9 years	Female	Motor cyclists	Injured	0	0
+41	6 - 9 years	Female	Motor cyclists	Killed	0	0
+42	6 - 9 years	Female	Car drivers	Injured	0	0
+43	6 - 9 years	Female	Car drivers	Killed	0	0
+44	6 - 9 years	Female	Car passengers	Injured	55	65
+45	6 - 9 years	Female	Car passengers	Killed	1	0
+46	6 - 9 years	Female	Other road users	Injured	3	5
+47	6 - 9 years	Female	Other road users	Killed	0	0
+48	10 - 14 years	Male	Pedestrians	Injured	70	58
+49	10 - 14 years	Male	Pedestrians	Killed	3	0
+50	10 - 14 years	Male	Pedal cyclists	Injured	19	29
+51	10 - 14 years	Male	Pedal cyclists	Killed	1	2
+52	10 - 14 years	Male	Motor cyclists	Injured	2	2
+53	10 - 14 years	Male	Motor cyclists	Killed	0	0
+54	10 - 14 years	Male	Car drivers	Injured	1	3
+55	10 - 14 years	Male	Car drivers	Killed	0	0
+56	10 - 14 years	Male	Car passengers	Injured	75	75
+57	10 - 14 years	Male	Car passengers	Killed	2	0
+58	10 - 14 years	Male	Other road users	Injured	8	11
+59	10 - 14 years	Male	Other road users	Killed	0	0
+60	10 - 14 years	Female	Pedestrians	Injured	39	43
+61	10 - 14 years	Female	Pedestrians	Killed	1	2
+62	10 - 14 years	Female	Pedal cyclists	Injured	2	5
+63	10 - 14 years	Female	Pedal cyclists	Killed	0	0
+64	10 - 14 years	Female	Motor cyclists	Injured	0	0
+65	10 - 14 years	Female	Motor cyclists	Killed	0	0
+66	10 - 14 years	Female	Car drivers	Injured	0	1
+67	10 - 14 years	Female	Car drivers	Killed	0	0
+68	10 - 14 years	Female	Car passengers	Injured	75	93
+69	10 - 14 years	Female	Car passengers	Killed	3	0
+70	10 - 14 years	Female	Other road users	Injured	1	4
+71	10 - 14 years	Female	Other road users	Killed	0	0
+72	15 - 17 years	Male	Pedestrians	Injured	28	26
+73	15 - 17 years	Male	Pedestrians	Killed	0	0
+74	15 - 17 years	Male	Pedal cyclists	Injured	16	24
+75	15 - 17 years	Male	Pedal cyclists	Killed	3	2
+76	15 - 17 years	Male	Motor cyclists	Injured	16	18
+77	15 - 17 years	Male	Motor cyclists	Killed	1	0
+78	15 - 17 years	Male	Car drivers	Injured	63	51
+79	15 - 17 years	Male	Car drivers	Killed	5	1
+80	15 - 17 years	Male	Car passengers	Injured	123	116
+81	15 - 17 years	Male	Car passengers	Killed	6	6
+82	15 - 17 years	Male	Other road users	Injured	15	18
+83	15 - 17 years	Male	Other road users	Killed	1	0
+84	15 - 17 years	Female	Pedestrians	Injured	30	43
+85	15 - 17 years	Female	Pedestrians	Killed	1	0
+86	15 - 17 years	Female	Pedal cyclists	Injured	0	2
+87	15 - 17 years	Female	Pedal cyclists	Killed	0	0
+88	15 - 17 years	Female	Motor cyclists	Injured	2	4
+89	15 - 17 years	Female	Motor cyclists	Killed	0	0
+90	15 - 17 years	Female	Car drivers	Injured	26	18
+91	15 - 17 years	Female	Car drivers	Killed	0	0
+92	15 - 17 years	Female	Car passengers	Injured	123	103
+93	15 - 17 years	Female	Car passengers	Killed	3	0
+94	15 - 17 years	Female	Other road users	Injured	9	1
+95	15 - 17 years	Female	Other road users	Killed	0	0
+96	18 - 20 years	Male	Pedestrians	Injured	42	40
+97	18 - 20 years	Male	Pedestrians	Killed	6	2
+98	18 - 20 years	Male	Pedal cyclists	Injured	12	11
+99	18 - 20 years	Male	Pedal cyclists	Killed	0	0
+100	18 - 20 years	Male	Motor cyclists	Injured	20	19
+101	18 - 20 years	Male	Motor cyclists	Killed	2	1
+102	18 - 20 years	Male	Car drivers	Injured	243	258
+103	18 - 20 years	Male	Car drivers	Killed	12	14
+104	18 - 20 years	Male	Car passengers	Injured	179	234
+105	18 - 20 years	Male	Car passengers	Killed	3	4
+106	18 - 20 years	Male	Other road users	Injured	57	44
+107	18 - 20 years	Male	Other road users	Killed	2	2
+108	18 - 20 years	Female	Pedestrians	Injured	25	34
+109	18 - 20 years	Female	Pedestrians	Killed	2	0
+110	18 - 20 years	Female	Pedal cyclists	Injured	3	1
+111	18 - 20 years	Female	Pedal cyclists	Killed	0	0
+112	18 - 20 years	Female	Motor cyclists	Injured	0	2
+113	18 - 20 years	Female	Motor cyclists	Killed	1	0
+114	18 - 20 years	Female	Car drivers	Injured	153	161
+115	18 - 20 years	Female	Car drivers	Killed	5	3
+116	18 - 20 years	Female	Car passengers	Injured	171	168
+117	18 - 20 years	Female	Car passengers	Killed	1	5
+118	18 - 20 years	Female	Other road users	Injured	10	10
+119	18 - 20 years	Female	Other road users	Killed	0	0
+120	21 - 24 years	Male	Pedestrians	Injured	40	57
+121	21 - 24 years	Male	Pedestrians	Killed	0	2
+122	21 - 24 years	Male	Pedal cyclists	Injured	18	20
+123	21 - 24 years	Male	Pedal cyclists	Killed	0	0
+124	21 - 24 years	Male	Motor cyclists	Injured	49	48
+125	21 - 24 years	Male	Motor cyclists	Killed	7	4
+126	21 - 24 years	Male	Car drivers	Injured	226	255
+127	21 - 24 years	Male	Car drivers	Killed	17	15
+128	21 - 24 years	Male	Car passengers	Injured	162	196
+129	21 - 24 years	Male	Car passengers	Killed	6	8
+130	21 - 24 years	Male	Other road users	Injured	52	61
+131	21 - 24 years	Male	Other road users	Killed	2	1
+132	21 - 24 years	Female	Pedestrians	Injured	31	27
+133	21 - 24 years	Female	Pedestrians	Killed	1	0
+134	21 - 24 years	Female	Pedal cyclists	Injured	9	8
+135	21 - 24 years	Female	Pedal cyclists	Killed	0	0
+136	21 - 24 years	Female	Motor cyclists	Injured	3	3
+137	21 - 24 years	Female	Motor cyclists	Killed	0	0
+138	21 - 24 years	Female	Car drivers	Injured	233	228
+139	21 - 24 years	Female	Car drivers	Killed	5	3
+140	21 - 24 years	Female	Car passengers	Injured	157	171
+141	21 - 24 years	Female	Car passengers	Killed	3	0
+142	21 - 24 years	Female	Other road users	Injured	15	16
+143	21 - 24 years	Female	Other road users	Killed	0	0
+144	25 - 34 years	Male	Pedestrians	Injured	95	82
+145	25 - 34 years	Male	Pedestrians	Killed	2	3
+146	25 - 34 years	Male	Pedal cyclists	Injured	68	61
+147	25 - 34 years	Male	Pedal cyclists	Killed	0	1
+148	25 - 34 years	Male	Motor cyclists	Injured	113	127
+149	25 - 34 years	Male	Motor cyclists	Killed	9	9
+150	25 - 34 years	Male	Car drivers	Injured	477	562
+151	25 - 34 years	Male	Car drivers	Killed	13	17
+152	25 - 34 years	Male	Car passengers	Injured	196	252
+153	25 - 34 years	Male	Car passengers	Killed	5	5
+154	25 - 34 years	Male	Other road users	Injured	168	123
+155	25 - 34 years	Male	Other road users	Killed	4	6
+156	25 - 34 years	Female	Pedestrians	Injured	56	72
+157	25 - 34 years	Female	Pedestrians	Killed	2	2
+158	25 - 34 years	Female	Pedal cyclists	Injured	31	30
+159	25 - 34 years	Female	Pedal cyclists	Killed	0	0
+160	25 - 34 years	Female	Motor cyclists	Injured	14	6
+161	25 - 34 years	Female	Motor cyclists	Killed	0	0
+162	25 - 34 years	Female	Car drivers	Injured	465	538
+163	25 - 34 years	Female	Car drivers	Killed	7	8
+164	25 - 34 years	Female	Car passengers	Injured	212	206
+165	25 - 34 years	Female	Car passengers	Killed	2	1
+166	25 - 34 years	Female	Other road users	Injured	29	20
+167	25 - 34 years	Female	Other road users	Killed	0	0
+168	35 - 44 years	Male	Pedestrians	Injured	67	55
+169	35 - 44 years	Male	Pedestrians	Killed	4	2
+170	35 - 44 years	Male	Pedal cyclists	Injured	36	53
+171	35 - 44 years	Male	Pedal cyclists	Killed	1	0
+172	35 - 44 years	Male	Motor cyclists	Injured	88	92
+173	35 - 44 years	Male	Motor cyclists	Killed	8	8
+174	35 - 44 years	Male	Car drivers	Injured	315	381
+175	35 - 44 years	Male	Car drivers	Killed	12	14
+176	35 - 44 years	Male	Car passengers	Injured	89	91
+177	35 - 44 years	Male	Car passengers	Killed	0	2
+178	35 - 44 years	Male	Other road users	Injured	103	140
+179	35 - 44 years	Male	Other road users	Killed	7	4
+180	35 - 44 years	Female	Pedestrians	Injured	46	35
+181	35 - 44 years	Female	Pedestrians	Killed	0	1
+182	35 - 44 years	Female	Pedal cyclists	Injured	11	14
+183	35 - 44 years	Female	Pedal cyclists	Killed	0	0
+184	35 - 44 years	Female	Motor cyclists	Injured	6	6
+185	35 - 44 years	Female	Motor cyclists	Killed	0	0
+186	35 - 44 years	Female	Car drivers	Injured	284	374
+187	35 - 44 years	Female	Car drivers	Killed	3	2
+188	35 - 44 years	Female	Car passengers	Injured	113	149
+189	35 - 44 years	Female	Car passengers	Killed	1	0
+190	35 - 44 years	Female	Other road users	Injured	13	16
+191	35 - 44 years	Female	Other road users	Killed	0	1
+192	45 - 54 years	Male	Pedestrians	Injured	46	66
+193	45 - 54 years	Male	Pedestrians	Killed	5	3
+194	45 - 54 years	Male	Pedal cyclists	Injured	22	35
+195	45 - 54 years	Male	Pedal cyclists	Killed	2	1
+196	45 - 54 years	Male	Motor cyclists	Injured	48	49
+197	45 - 54 years	Male	Motor cyclists	Killed	0	0
+198	45 - 54 years	Male	Car drivers	Injured	194	227
+199	45 - 54 years	Male	Car drivers	Killed	4	2
+200	45 - 54 years	Male	Car passengers	Injured	41	61
+201	45 - 54 years	Male	Car passengers	Killed	1	2
+202	45 - 54 years	Male	Other road users	Injured	77	70
+203	45 - 54 years	Male	Other road users	Killed	1	2
+204	45 - 54 years	Female	Pedestrians	Injured	39	34
+205	45 - 54 years	Female	Pedestrians	Killed	1	1
+206	45 - 54 years	Female	Pedal cyclists	Injured	8	3
+207	45 - 54 years	Female	Pedal cyclists	Killed	2	0
+208	45 - 54 years	Female	Motor cyclists	Injured	6	6
+209	45 - 54 years	Female	Motor cyclists	Killed	0	0
+210	45 - 54 years	Female	Car drivers	Injured	213	259
+211	45 - 54 years	Female	Car drivers	Killed	4	8
+212	45 - 54 years	Female	Car passengers	Injured	102	115
+213	45 - 54 years	Female	Car passengers	Killed	0	0
+214	45 - 54 years	Female	Other road users	Injured	19	20
+215	45 - 54 years	Female	Other road users	Killed	0	0
+216	55 - 64 years	Male	Pedestrians	Injured	42	48
+217	55 - 64 years	Male	Pedestrians	Killed	2	7
+218	55 - 64 years	Male	Pedal cyclists	Injured	18	23
+219	55 - 64 years	Male	Pedal cyclists	Killed	2	0
+220	55 - 64 years	Male	Motor cyclists	Injured	10	13
+221	55 - 64 years	Male	Motor cyclists	Killed	1	2
+222	55 - 64 years	Male	Car drivers	Injured	149	161
+223	55 - 64 years	Male	Car drivers	Killed	0	5
+224	55 - 64 years	Male	Car passengers	Injured	36	35
+225	55 - 64 years	Male	Car passengers	Killed	1	1
+226	55 - 64 years	Male	Other road users	Injured	53	41
+227	55 - 64 years	Male	Other road users	Killed	2	2
+228	55 - 64 years	Female	Pedestrians	Injured	42	33
+229	55 - 64 years	Female	Pedestrians	Killed	2	0
+230	55 - 64 years	Female	Pedal cyclists	Injured	4	7
+231	55 - 64 years	Female	Pedal cyclists	Killed	0	0
+232	55 - 64 years	Female	Motor cyclists	Injured	2	2
+233	55 - 64 years	Female	Motor cyclists	Killed	0	0
+234	55 - 64 years	Female	Car drivers	Injured	105	145
+235	55 - 64 years	Female	Car drivers	Killed	3	3
+236	55 - 64 years	Female	Car passengers	Injured	95	89
+237	55 - 64 years	Female	Car passengers	Killed	0	1
+238	55 - 64 years	Female	Other road users	Injured	9	13
+239	55 - 64 years	Female	Other road users	Killed	0	1
+240	65 years and over	Male	Pedestrians	Injured	59	64
+241	65 years and over	Male	Pedestrians	Killed	6	3
+242	65 years and over	Male	Pedal cyclists	Injured	9	9
+243	65 years and over	Male	Pedal cyclists	Killed	2	1
+244	65 years and over	Male	Motor cyclists	Injured	5	5
+245	65 years and over	Male	Motor cyclists	Killed	0	1
+246	65 years and over	Male	Car drivers	Injured	164	168
+247	65 years and over	Male	Car drivers	Killed	12	8
+248	65 years and over	Male	Car passengers	Injured	32	31
+249	65 years and over	Male	Car passengers	Killed	1	0
+250	65 years and over	Male	Other road users	Injured	21	27
+251	65 years and over	Male	Other road users	Killed	6	1
+252	65 years and over	Female	Pedestrians	Injured	86	73
+253	65 years and over	Female	Pedestrians	Killed	6	7
+254	65 years and over	Female	Pedal cyclists	Injured	5	1
+255	65 years and over	Female	Pedal cyclists	Killed	0	0
+256	65 years and over	Female	Motor cyclists	Injured	0	0
+257	65 years and over	Female	Motor cyclists	Killed	0	0
+258	65 years and over	Female	Car drivers	Injured	93	128
+259	65 years and over	Female	Car drivers	Killed	7	4
+260	65 years and over	Female	Car passengers	Injured	107	103
+261	65 years and over	Female	Car passengers	Killed	6	1
+262	65 years and over	Female	Other road users	Injured	7	8
+263	65 years and over	Female	Other road users	Killed	0	0
+264	Age uknown	Male	Pedestrians	Injured	19	13
+265	Age uknown	Male	Pedestrians	Killed	0	0
+266	Age uknown	Male	Pedal cyclists	Injured	11	6
+267	Age uknown	Male	Pedal cyclists	Killed	0	0
+268	Age uknown	Male	Motor cyclists	Injured	80	17
+269	Age uknown	Male	Motor cyclists	Killed	0	0
+270	Age uknown	Male	Car drivers	Injured	358	89
+271	Age uknown	Male	Car drivers	Killed	0	0
+272	Age uknown	Male	Car passengers	Injured	31	18
+273	Age uknown	Male	Car passengers	Killed	1	0
+274	Age uknown	Male	Other road users	Injured	75	22
+275	Age uknown	Male	Other road users	Killed	0	0
+276	Age uknown	Female	Pedestrians	Injured	25	16
+277	Age uknown	Female	Pedestrians	Killed	0	0
+278	Age uknown	Female	Pedal cyclists	Injured	8	0
+279	Age uknown	Female	Pedal cyclists	Killed	0	0
+280	Age uknown	Female	Motor cyclists	Injured	3	0
+281	Age uknown	Female	Motor cyclists	Killed	0	0
+282	Age uknown	Female	Car drivers	Injured	293	57
+283	Age uknown	Female	Car drivers	Killed	0	0
+284	Age uknown	Female	Car passengers	Injured	19	10
+285	Age uknown	Female	Car passengers	Killed	0	0
+286	Age uknown	Female	Other road users	Injured	8	1
+287	Age uknown	Female	Other road users	Killed	0	0
