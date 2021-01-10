@@ -1,3 +1,12 @@
+# Overview
+This repository contains all of the code written to process data from the Irish Road Safety Authority (RSA) from 2005 to 2012 as part of the college module *'Data Processing and Visualisation'*.
+
+The goal of this project was to clean the road safety data, get it into a nice format and then to perform visual analysis on the processed data.
+
+
+
+
+
 List of tools used:
 
     Jupyter Notebook
