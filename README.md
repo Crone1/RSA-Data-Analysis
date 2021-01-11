@@ -30,7 +30,7 @@ There were not many errors so these were easy enough to spot especially with how
 The details on how I cleaned the data using OpenRefine are contained in the *'Cleaning.md'* file. This goes through the cleaning process step by step.
 A CSV of the data after it had been cleaned in OpenRefine can be found at *'data/processed/Cleaned_dataframe-csv.csv'*.
 
-Outside of the cleaning described in this markdown file, I also noticed an odly large value of '1010' in the 'Total' column which I wanted to investigate further to see if I needed to change this value.
+As mentioned in this cleaning markdown file, I also noticed an odly large value of '1010' in the 'Total' column which I wanted to investigate further to see if I needed to change this value.
 To investigate this, I opened the CSV that was expoted from OpenRefine back up in a Jupyter Notebook titled *'Analysing the cleaned dataframe.ipynb'*. Here, I compared this value with the other totals across the different years. This highlighted it as an error so I changed the '1010' to '10' as this fit with what I thought it should have been.
 After this cleaning, I exported this cleaned and formatted table to the following location: *'data/processed/Final_dataframe-csv.csv'*.
 
